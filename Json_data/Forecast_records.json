@@ -1,0 +1,2172 @@
+[
+    {
+        "City_id": 1,
+        "Date": "2026-05-14",
+        "Station_id": 10111,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 148,
+        "Max_value": 155,
+        "Min_value": 138
+    },
+    {
+        "City_id": 2,
+        "Date": "2026-05-14",
+        "Station_id": 12454,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 152,
+        "Min_value": 125
+    },
+    {
+        "City_id": 3,
+        "Date": "2026-05-14",
+        "Station_id": 11270,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 73,
+        "Max_value": 79,
+        "Min_value": 68
+    },
+    {
+        "City_id": 4,
+        "Date": "2026-05-14",
+        "Station_id": 12746,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 68,
+        "Max_value": 68,
+        "Min_value": 68
+    },
+    {
+        "City_id": 5,
+        "Date": "2026-05-14",
+        "Station_id": 13737,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 55,
+        "Max_value": 68,
+        "Min_value": 42
+    },
+    {
+        "City_id": 6,
+        "Date": "2026-05-14",
+        "Station_id": 14125,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 83,
+        "Max_value": 89,
+        "Min_value": 68
+    },
+    {
+        "City_id": 7,
+        "Date": "2026-05-14",
+        "Station_id": 3760,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 8,
+        "Date": "2026-05-14",
+        "Station_id": 8192,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 121,
+        "Max_value": 138,
+        "Min_value": 89
+    },
+    {
+        "City_id": 9,
+        "Date": "2026-05-14",
+        "Station_id": 11291,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 159,
+        "Max_value": 159,
+        "Min_value": 159
+    },
+    {
+        "City_id": 10,
+        "Date": "2026-05-14",
+        "Station_id": 3845,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 147,
+        "Max_value": 159,
+        "Min_value": 138
+    },
+    {
+        "City_id": 11,
+        "Date": "2026-05-14",
+        "Station_id": 13727,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 148,
+        "Max_value": 155,
+        "Min_value": 138
+    },
+    {
+        "City_id": 12,
+        "Date": "2026-05-14",
+        "Station_id": 12444,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 14,
+        "Date": "2026-05-14",
+        "Station_id": 9143,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 136,
+        "Max_value": 138,
+        "Min_value": 134
+    },
+    {
+        "City_id": 15,
+        "Date": "2026-05-14",
+        "Station_id": 12429,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 18,
+        "Date": "2026-05-14",
+        "Station_id": 8674,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 146,
+        "Max_value": 159,
+        "Min_value": 138
+    },
+    {
+        "City_id": 20,
+        "Date": "2026-05-14",
+        "Station_id": 11899,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 148,
+        "Max_value": 155,
+        "Min_value": 138
+    },
+    {
+        "City_id": 21,
+        "Date": "2026-05-14",
+        "Station_id": 11272,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 159,
+        "Max_value": 159,
+        "Min_value": 159
+    },
+    {
+        "City_id": 22,
+        "Date": "2026-05-14",
+        "Station_id": 8186,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 146,
+        "Max_value": 159,
+        "Min_value": 138
+    },
+    {
+        "City_id": 23,
+        "Date": "2026-05-14",
+        "Station_id": 11283,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 89,
+        "Max_value": 89,
+        "Min_value": 89
+    },
+    {
+        "City_id": 24,
+        "Date": "2026-05-14",
+        "Station_id": 12813,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 152,
+        "Max_value": 159,
+        "Min_value": 138
+    },
+    {
+        "City_id": 25,
+        "Date": "2026-05-14",
+        "Station_id": 12430,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 159,
+        "Max_value": 159,
+        "Min_value": 158
+    },
+    {
+        "City_id": 27,
+        "Date": "2026-05-14",
+        "Station_id": 13690,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 28,
+        "Date": "2026-05-14",
+        "Station_id": 13694,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 137,
+        "Max_value": 138,
+        "Min_value": 135
+    },
+    {
+        "City_id": 29,
+        "Date": "2026-05-14",
+        "Station_id": 14700,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 131,
+        "Max_value": 138,
+        "Min_value": 111
+    },
+    {
+        "City_id": 31,
+        "Date": "2026-05-14",
+        "Station_id": 11321,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 163,
+        "Max_value": 174,
+        "Min_value": 156
+    },
+    {
+        "City_id": 32,
+        "Date": "2026-05-14",
+        "Station_id": 13699,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 149,
+        "Max_value": 159,
+        "Min_value": 138
+    },
+    {
+        "City_id": 34,
+        "Date": "2026-05-14",
+        "Station_id": 11847,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 114,
+        "Max_value": 138,
+        "Min_value": 89
+    },
+    {
+        "City_id": 35,
+        "Date": "2026-05-14",
+        "Station_id": 12427,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 36,
+        "Date": "2026-05-14",
+        "Station_id": 12817,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 38,
+        "Date": "2026-05-14",
+        "Station_id": 12433,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 89,
+        "Max_value": 89,
+        "Min_value": 89
+    },
+    {
+        "City_id": 40,
+        "Date": "2026-05-14",
+        "Station_id": 14698,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 147,
+        "Max_value": 151,
+        "Min_value": 142
+    },
+    {
+        "City_id": 41,
+        "Date": "2026-05-14",
+        "Station_id": 2084,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 59,
+        "Max_value": 65,
+        "Min_value": 38
+    },
+    {
+        "City_id": 42,
+        "Date": "2026-05-14",
+        "Station_id": 5724,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 15,
+        "Max_value": 22,
+        "Min_value": 8
+    },
+    {
+        "City_id": 43,
+        "Date": "2026-05-14",
+        "Station_id": 5722,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 15,
+        "Max_value": 21,
+        "Min_value": 8
+    },
+    {
+        "City_id": 44,
+        "Date": "2026-05-14",
+        "Station_id": 6132,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 11,
+        "Max_value": 19,
+        "Min_value": 7
+    },
+    {
+        "City_id": 45,
+        "Date": "2026-05-14",
+        "Station_id": 5725,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 13,
+        "Max_value": 15,
+        "Min_value": 5
+    },
+    {
+        "City_id": 46,
+        "Date": "2026-05-14",
+        "Station_id": 9352,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 8,
+        "Max_value": 14,
+        "Min_value": 6
+    },
+    {
+        "City_id": 47,
+        "Date": "2026-05-14",
+        "Station_id": 5771,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 16,
+        "Max_value": 24,
+        "Min_value": 9
+    },
+    {
+        "City_id": 48,
+        "Date": "2026-05-14",
+        "Station_id": 2860,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 36,
+        "Max_value": 59,
+        "Min_value": 13
+    },
+    {
+        "City_id": 49,
+        "Date": "2026-05-14",
+        "Station_id": 10011,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 19,
+        "Max_value": 31,
+        "Min_value": 7
+    },
+    {
+        "City_id": 50,
+        "Date": "2026-05-14",
+        "Station_id": 3330,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 51,
+        "Max_value": 62,
+        "Min_value": 36
+    },
+    {
+        "City_id": 51,
+        "Date": "2026-05-14",
+        "Station_id": 4143,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 67,
+        "Max_value": 88,
+        "Min_value": 52
+    },
+    {
+        "City_id": 52,
+        "Date": "2026-05-14",
+        "Station_id": 9118,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 55,
+        "Max_value": 65,
+        "Min_value": 44
+    },
+    {
+        "City_id": 53,
+        "Date": "2026-05-14",
+        "Station_id": 6669,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 22,
+        "Max_value": 50,
+        "Min_value": 8
+    },
+    {
+        "City_id": 54,
+        "Date": "2026-05-14",
+        "Station_id": 6037,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 21,
+        "Max_value": 33,
+        "Min_value": 14
+    },
+    {
+        "City_id": 55,
+        "Date": "2026-05-14",
+        "Station_id": 2703,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 17,
+        "Max_value": 32,
+        "Min_value": 7
+    },
+    {
+        "City_id": 56,
+        "Date": "2026-05-14",
+        "Station_id": 5765,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 16,
+        "Max_value": 23,
+        "Min_value": 9
+    },
+    {
+        "City_id": 57,
+        "Date": "2026-05-14",
+        "Station_id": 3399,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 41,
+        "Max_value": 56,
+        "Min_value": 13
+    },
+    {
+        "City_id": 58,
+        "Date": "2026-05-14",
+        "Station_id": 3371,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 34,
+        "Max_value": 43,
+        "Min_value": 23
+    },
+    {
+        "City_id": 59,
+        "Date": "2026-05-14",
+        "Station_id": 5769,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 24,
+        "Max_value": 43,
+        "Min_value": 12
+    },
+    {
+        "City_id": 60,
+        "Date": "2026-05-14",
+        "Station_id": 3317,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 20,
+        "Min_value": 6
+    },
+    {
+        "City_id": 61,
+        "Date": "2026-05-14",
+        "Station_id": 14666,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 7,
+        "Max_value": 9,
+        "Min_value": 4
+    },
+    {
+        "City_id": 62,
+        "Date": "2026-05-14",
+        "Station_id": 5717,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 13,
+        "Max_value": 18,
+        "Min_value": 10
+    },
+    {
+        "City_id": 63,
+        "Date": "2026-05-14",
+        "Station_id": 14648,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 7,
+        "Max_value": 10,
+        "Min_value": 4
+    },
+    {
+        "City_id": 64,
+        "Date": "2026-05-14",
+        "Station_id": 8379,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 18,
+        "Max_value": 24,
+        "Min_value": 14
+    },
+    {
+        "City_id": 65,
+        "Date": "2026-05-14",
+        "Station_id": 12414,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 45,
+        "Max_value": 61,
+        "Min_value": 24
+    },
+    {
+        "City_id": 66,
+        "Date": "2026-05-14",
+        "Station_id": 3176,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 6,
+        "Max_value": 8,
+        "Min_value": 4
+    },
+    {
+        "City_id": 67,
+        "Date": "2026-05-14",
+        "Station_id": 3177,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 13,
+        "Max_value": 17,
+        "Min_value": 7
+    },
+    {
+        "City_id": 68,
+        "Date": "2026-05-14",
+        "Station_id": 3196,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 10,
+        "Max_value": 12,
+        "Min_value": 6
+    },
+    {
+        "City_id": 69,
+        "Date": "2026-05-14",
+        "Station_id": 5723,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 13,
+        "Max_value": 18,
+        "Min_value": 8
+    },
+    {
+        "City_id": 70,
+        "Date": "2026-05-14",
+        "Station_id": 3221,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 6,
+        "Max_value": 8,
+        "Min_value": 4
+    },
+    {
+        "City_id": 71,
+        "Date": "2026-05-14",
+        "Station_id": 3184,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 10,
+        "Max_value": 13,
+        "Min_value": 6
+    },
+    {
+        "City_id": 72,
+        "Date": "2026-05-14",
+        "Station_id": 10855,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 13,
+        "Max_value": 18,
+        "Min_value": 9
+    },
+    {
+        "City_id": 73,
+        "Date": "2026-05-14",
+        "Station_id": 10833,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 10,
+        "Max_value": 18,
+        "Min_value": 6
+    },
+    {
+        "City_id": 74,
+        "Date": "2026-05-14",
+        "Station_id": 6101,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 15,
+        "Min_value": 9
+    },
+    {
+        "City_id": 75,
+        "Date": "2026-05-14",
+        "Station_id": 11226,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 16,
+        "Min_value": 9
+    },
+    {
+        "City_id": 76,
+        "Date": "2026-05-14",
+        "Station_id": 6087,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 18,
+        "Max_value": 24,
+        "Min_value": 10
+    },
+    {
+        "City_id": 77,
+        "Date": "2026-05-14",
+        "Station_id": 10896,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 19,
+        "Min_value": 8
+    },
+    {
+        "City_id": 78,
+        "Date": "2026-05-14",
+        "Station_id": 10891,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 14,
+        "Max_value": 18,
+        "Min_value": 10
+    },
+    {
+        "City_id": 79,
+        "Date": "2026-05-14",
+        "Station_id": 4995,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 8,
+        "Max_value": 15,
+        "Min_value": 5
+    },
+    {
+        "City_id": 80,
+        "Date": "2026-05-14",
+        "Station_id": 10050,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 17,
+        "Max_value": 23,
+        "Min_value": 10
+    },
+    {
+        "City_id": 81,
+        "Date": "2026-05-14",
+        "Station_id": 6882,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 16,
+        "Min_value": 7
+    },
+    {
+        "City_id": 82,
+        "Date": "2026-05-14",
+        "Station_id": 3828,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 18,
+        "Max_value": 21,
+        "Min_value": 11
+    },
+    {
+        "City_id": 83,
+        "Date": "2026-05-14",
+        "Station_id": 6886,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 9,
+        "Max_value": 16,
+        "Min_value": 4
+    },
+    {
+        "City_id": 84,
+        "Date": "2026-05-14",
+        "Station_id": 3821,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 14,
+        "Max_value": 17,
+        "Min_value": 9
+    },
+    {
+        "City_id": 85,
+        "Date": "2026-05-14",
+        "Station_id": 5054,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 14,
+        "Max_value": 18,
+        "Min_value": 9
+    },
+    {
+        "City_id": 86,
+        "Date": "2026-05-14",
+        "Station_id": 10084,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 74,
+        "Max_value": 96,
+        "Min_value": 46
+    },
+    {
+        "City_id": 87,
+        "Date": "2026-05-14",
+        "Station_id": 14703,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 18,
+        "Max_value": 21,
+        "Min_value": 14
+    },
+    {
+        "City_id": 88,
+        "Date": "2026-05-14",
+        "Station_id": 3061,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 16,
+        "Max_value": 23,
+        "Min_value": 11
+    },
+    {
+        "City_id": 89,
+        "Date": "2026-05-14",
+        "Station_id": 2688,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 16,
+        "Max_value": 26,
+        "Min_value": 5
+    },
+    {
+        "City_id": 90,
+        "Date": "2026-05-14",
+        "Station_id": 2690,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 10,
+        "Max_value": 14,
+        "Min_value": 7
+    },
+    {
+        "City_id": 91,
+        "Date": "2026-05-14",
+        "Station_id": 2687,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 13,
+        "Max_value": 16,
+        "Min_value": 11
+    },
+    {
+        "City_id": 92,
+        "Date": "2026-05-14",
+        "Station_id": 3309,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 25,
+        "Max_value": 50,
+        "Min_value": 10
+    },
+    {
+        "City_id": 93,
+        "Date": "2026-05-14",
+        "Station_id": 243,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 72,
+        "Max_value": 146,
+        "Min_value": 55
+    },
+    {
+        "City_id": 94,
+        "Date": "2026-05-14",
+        "Station_id": 7397,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 4,
+        "Max_value": 4,
+        "Min_value": 4
+    },
+    {
+        "City_id": 95,
+        "Date": "2026-05-14",
+        "Station_id": 178,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 14,
+        "Max_value": 16,
+        "Min_value": 12
+    },
+    {
+        "City_id": 96,
+        "Date": "2026-05-14",
+        "Station_id": 5914,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 6,
+        "Max_value": 6,
+        "Min_value": 5
+    },
+    {
+        "City_id": 97,
+        "Date": "2026-05-14",
+        "Station_id": 404,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 10,
+        "Max_value": 12,
+        "Min_value": 9
+    },
+    {
+        "City_id": 98,
+        "Date": "2026-05-14",
+        "Station_id": 3900,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 24,
+        "Max_value": 25,
+        "Min_value": 23
+    },
+    {
+        "City_id": 99,
+        "Date": "2026-05-14",
+        "Station_id": 5855,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 27,
+        "Max_value": 27,
+        "Min_value": 27
+    },
+    {
+        "City_id": 100,
+        "Date": "2026-05-14",
+        "Station_id": 6298,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 17,
+        "Max_value": 18,
+        "Min_value": 15
+    },
+    {
+        "City_id": 101,
+        "Date": "2026-05-14",
+        "Station_id": 5883,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 8,
+        "Max_value": 8,
+        "Min_value": 7
+    },
+    {
+        "City_id": 102,
+        "Date": "2026-05-14",
+        "Station_id": 14111,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 27,
+        "Max_value": 35,
+        "Min_value": 23
+    },
+    {
+        "City_id": 103,
+        "Date": "2026-05-14",
+        "Station_id": 5922,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 10,
+        "Max_value": 11,
+        "Min_value": 7
+    },
+    {
+        "City_id": 104,
+        "Date": "2026-05-14",
+        "Station_id": 5944,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 53,
+        "Max_value": 56,
+        "Min_value": 43
+    },
+    {
+        "City_id": 105,
+        "Date": "2026-05-14",
+        "Station_id": 3565,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 13,
+        "Min_value": 11
+    },
+    {
+        "City_id": 106,
+        "Date": "2026-05-14",
+        "Station_id": 13063,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 38,
+        "Max_value": 41,
+        "Min_value": 36
+    },
+    {
+        "City_id": 107,
+        "Date": "2026-05-14",
+        "Station_id": 204,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 76,
+        "Max_value": 83,
+        "Min_value": 68
+    },
+    {
+        "City_id": 108,
+        "Date": "2026-05-14",
+        "Station_id": 218,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 31,
+        "Max_value": 32,
+        "Min_value": 29
+    },
+    {
+        "City_id": 109,
+        "Date": "2026-05-14",
+        "Station_id": 6314,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 31,
+        "Max_value": 33,
+        "Min_value": 28
+    },
+    {
+        "City_id": 110,
+        "Date": "2026-05-14",
+        "Station_id": 5336,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 26,
+        "Max_value": 52,
+        "Min_value": 11
+    },
+    {
+        "City_id": 111,
+        "Date": "2026-05-14",
+        "Station_id": 13288,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 22,
+        "Max_value": 32,
+        "Min_value": 19
+    },
+    {
+        "City_id": 112,
+        "Date": "2026-05-14",
+        "Station_id": 86,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 37,
+        "Max_value": 38,
+        "Min_value": 35
+    },
+    {
+        "City_id": 114,
+        "Date": "2026-05-14",
+        "Station_id": 5915,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 4,
+        "Max_value": 5,
+        "Min_value": 3
+    },
+    {
+        "City_id": 115,
+        "Date": "2026-05-14",
+        "Station_id": 7496,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 63,
+        "Max_value": 75,
+        "Min_value": 54
+    },
+    {
+        "City_id": 116,
+        "Date": "2026-05-14",
+        "Station_id": 7418,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 37,
+        "Max_value": 95,
+        "Min_value": 3
+    },
+    {
+        "City_id": 117,
+        "Date": "2026-05-14",
+        "Station_id": 186,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 19,
+        "Max_value": 28,
+        "Min_value": 13
+    },
+    {
+        "City_id": 118,
+        "Date": "2026-05-14",
+        "Station_id": 3902,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 41,
+        "Max_value": 86,
+        "Min_value": 19
+    },
+    {
+        "City_id": 120,
+        "Date": "2026-05-14",
+        "Station_id": 13139,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 18,
+        "Max_value": 18,
+        "Min_value": 17
+    },
+    {
+        "City_id": 121,
+        "Date": "2026-05-14",
+        "Station_id": 8699,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 30,
+        "Max_value": 36,
+        "Min_value": 22
+    },
+    {
+        "City_id": 122,
+        "Date": "2026-05-14",
+        "Station_id": 185,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 45,
+        "Max_value": 47,
+        "Min_value": 43
+    },
+    {
+        "City_id": 123,
+        "Date": "2026-05-14",
+        "Station_id": 9628,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 23,
+        "Max_value": 23,
+        "Min_value": 22
+    },
+    {
+        "City_id": 124,
+        "Date": "2026-05-14",
+        "Station_id": 208,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 38,
+        "Max_value": 38,
+        "Min_value": 38
+    },
+    {
+        "City_id": 126,
+        "Date": "2026-05-14",
+        "Station_id": 10178,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 17,
+        "Max_value": 26,
+        "Min_value": 11
+    },
+    {
+        "City_id": 127,
+        "Date": "2026-05-14",
+        "Station_id": 12843,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 27,
+        "Max_value": 27,
+        "Min_value": 26
+    },
+    {
+        "City_id": 128,
+        "Date": "2026-05-14",
+        "Station_id": 5934,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 3,
+        "Max_value": 3,
+        "Min_value": 3
+    },
+    {
+        "City_id": 129,
+        "Date": "2026-05-14",
+        "Station_id": 9624,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 32,
+        "Max_value": 32,
+        "Min_value": 32
+    },
+    {
+        "City_id": 130,
+        "Date": "2026-05-14",
+        "Station_id": 5960,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 40,
+        "Max_value": 43,
+        "Min_value": 38
+    },
+    {
+        "City_id": 131,
+        "Date": "2026-05-14",
+        "Station_id": 304,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 23,
+        "Max_value": 24,
+        "Min_value": 22
+    },
+    {
+        "City_id": 132,
+        "Date": "2026-05-14",
+        "Station_id": 7357,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 15,
+        "Max_value": 21,
+        "Min_value": 8
+    },
+    {
+        "City_id": 133,
+        "Date": "2026-05-14",
+        "Station_id": 7363,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 19,
+        "Max_value": 30,
+        "Min_value": 16
+    },
+    {
+        "City_id": 134,
+        "Date": "2026-05-14",
+        "Station_id": 7668,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 11,
+        "Max_value": 11,
+        "Min_value": 11
+    },
+    {
+        "City_id": 135,
+        "Date": "2026-05-14",
+        "Station_id": 7462,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 64,
+        "Max_value": 73,
+        "Min_value": 54
+    },
+    {
+        "City_id": 136,
+        "Date": "2026-05-14",
+        "Station_id": 9519,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 19,
+        "Max_value": 21,
+        "Min_value": 17
+    },
+    {
+        "City_id": 137,
+        "Date": "2026-05-14",
+        "Station_id": 10172,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 29,
+        "Max_value": 55,
+        "Min_value": 9
+    },
+    {
+        "City_id": 138,
+        "Date": "2026-05-14",
+        "Station_id": 5573,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 96,
+        "Max_value": 138,
+        "Min_value": 68
+    },
+    {
+        "City_id": 139,
+        "Date": "2026-05-14",
+        "Station_id": 5538,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 92,
+        "Max_value": 102,
+        "Min_value": 62
+    },
+    {
+        "City_id": 140,
+        "Date": "2026-05-14",
+        "Station_id": 5543,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 71,
+        "Max_value": 78,
+        "Min_value": 68
+    },
+    {
+        "City_id": 141,
+        "Date": "2026-05-14",
+        "Station_id": 5540,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 68,
+        "Max_value": 68,
+        "Min_value": 68
+    },
+    {
+        "City_id": 142,
+        "Date": "2026-05-14",
+        "Station_id": 5536,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 68,
+        "Max_value": 68,
+        "Min_value": 68
+    },
+    {
+        "City_id": 143,
+        "Date": "2026-05-14",
+        "Station_id": 5551,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 73,
+        "Max_value": 89,
+        "Min_value": 68
+    },
+    {
+        "City_id": 144,
+        "Date": "2026-05-14",
+        "Station_id": 5544,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 71,
+        "Max_value": 80,
+        "Min_value": 68
+    },
+    {
+        "City_id": 145,
+        "Date": "2026-05-14",
+        "Station_id": 5542,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 68,
+        "Max_value": 69,
+        "Min_value": 68
+    },
+    {
+        "City_id": 146,
+        "Date": "2026-05-14",
+        "Station_id": 5580,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 92,
+        "Max_value": 123,
+        "Min_value": 68
+    },
+    {
+        "City_id": 147,
+        "Date": "2026-05-14",
+        "Station_id": 5556,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 100,
+        "Max_value": 138,
+        "Min_value": 68
+    },
+    {
+        "City_id": 148,
+        "Date": "2026-05-14",
+        "Station_id": 1451,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 149,
+        "Date": "2026-05-14",
+        "Station_id": 1437,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 199,
+        "Max_value": 252,
+        "Min_value": 130
+    },
+    {
+        "City_id": 150,
+        "Date": "2026-05-14",
+        "Station_id": 1449,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 152,
+        "Max_value": 152,
+        "Min_value": 152
+    },
+    {
+        "City_id": 151,
+        "Date": "2026-05-14",
+        "Station_id": 1539,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 131,
+        "Max_value": 174,
+        "Min_value": 89
+    },
+    {
+        "City_id": 152,
+        "Date": "2026-05-14",
+        "Station_id": 1450,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 153,
+        "Date": "2026-05-14",
+        "Station_id": 1439,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 170,
+        "Max_value": 244,
+        "Min_value": 93
+    },
+    {
+        "City_id": 154,
+        "Date": "2026-05-14",
+        "Station_id": 1529,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 155,
+        "Max_value": 159,
+        "Min_value": 138
+    },
+    {
+        "City_id": 155,
+        "Date": "2026-05-14",
+        "Station_id": 1569,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 107,
+        "Max_value": 138,
+        "Min_value": 77
+    },
+    {
+        "City_id": 156,
+        "Date": "2026-05-14",
+        "Station_id": 1485,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 146,
+        "Max_value": 159,
+        "Min_value": 138
+    },
+    {
+        "City_id": 157,
+        "Date": "2026-05-14",
+        "Station_id": 1453,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 114,
+        "Max_value": 138,
+        "Min_value": 89
+    },
+    {
+        "City_id": 158,
+        "Date": "2026-05-14",
+        "Station_id": 1452,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 134,
+        "Max_value": 138,
+        "Min_value": 89
+    },
+    {
+        "City_id": 159,
+        "Date": "2026-05-14",
+        "Station_id": 1489,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 202,
+        "Max_value": 252,
+        "Min_value": 138
+    },
+    {
+        "City_id": 160,
+        "Date": "2026-05-14",
+        "Station_id": 1285,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 96,
+        "Max_value": 124,
+        "Min_value": 89
+    },
+    {
+        "City_id": 161,
+        "Date": "2026-05-14",
+        "Station_id": 1505,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 114,
+        "Max_value": 138,
+        "Min_value": 89
+    },
+    {
+        "City_id": 162,
+        "Date": "2026-05-14",
+        "Station_id": 1522,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 163,
+        "Date": "2026-05-14",
+        "Station_id": 1532,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 134,
+        "Max_value": 138,
+        "Min_value": 122
+    },
+    {
+        "City_id": 164,
+        "Date": "2026-05-14",
+        "Station_id": 1474,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 138,
+        "Min_value": 138
+    },
+    {
+        "City_id": 165,
+        "Date": "2026-05-14",
+        "Station_id": 1506,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 105,
+        "Max_value": 138,
+        "Min_value": 89
+    },
+    {
+        "City_id": 166,
+        "Date": "2026-05-14",
+        "Station_id": 5508,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 192,
+        "Max_value": 252,
+        "Min_value": 89
+    },
+    {
+        "City_id": 167,
+        "Date": "2026-05-14",
+        "Station_id": 5521,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 69,
+        "Max_value": 76,
+        "Min_value": 68
+    },
+    {
+        "City_id": 168,
+        "Date": "2026-05-14",
+        "Station_id": 5517,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 196,
+        "Max_value": 247,
+        "Min_value": 92
+    },
+    {
+        "City_id": 169,
+        "Date": "2026-05-14",
+        "Station_id": 5523,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 94,
+        "Max_value": 108,
+        "Min_value": 70
+    },
+    {
+        "City_id": 170,
+        "Date": "2026-05-14",
+        "Station_id": 5519,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 120,
+        "Max_value": 138,
+        "Min_value": 68
+    },
+    {
+        "City_id": 171,
+        "Date": "2026-05-14",
+        "Station_id": 5510,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 55,
+        "Max_value": 72,
+        "Min_value": 38
+    },
+    {
+        "City_id": 172,
+        "Date": "2026-05-14",
+        "Station_id": 5522,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 144,
+        "Max_value": 155,
+        "Min_value": 68
+    },
+    {
+        "City_id": 173,
+        "Date": "2026-05-14",
+        "Station_id": 5773,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 127,
+        "Max_value": 161,
+        "Min_value": 89
+    },
+    {
+        "City_id": 174,
+        "Date": "2026-05-14",
+        "Station_id": 1816,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 130,
+        "Max_value": 130,
+        "Min_value": 130
+    },
+    {
+        "City_id": 175,
+        "Date": "2026-05-14",
+        "Station_id": 1854,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 68,
+        "Max_value": 68,
+        "Min_value": 68
+    },
+    {
+        "City_id": 176,
+        "Date": "2026-05-14",
+        "Station_id": 5775,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 46,
+        "Max_value": 68,
+        "Min_value": 20
+    },
+    {
+        "City_id": 177,
+        "Date": "2026-05-14",
+        "Station_id": 1852,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 35,
+        "Max_value": 45,
+        "Min_value": 21
+    },
+    {
+        "City_id": 178,
+        "Date": "2026-05-14",
+        "Station_id": 1663,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 93,
+        "Max_value": 113,
+        "Min_value": 68
+    },
+    {
+        "City_id": 179,
+        "Date": "2026-05-14",
+        "Station_id": 2571,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 77,
+        "Max_value": 103,
+        "Min_value": 68
+    },
+    {
+        "City_id": 180,
+        "Date": "2026-05-14",
+        "Station_id": 8294,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 172,
+        "Max_value": 196,
+        "Min_value": 146
+    },
+    {
+        "City_id": 183,
+        "Date": "2026-05-14",
+        "Station_id": 8287,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 65,
+        "Max_value": 68,
+        "Min_value": 43
+    },
+    {
+        "City_id": 184,
+        "Date": "2026-05-14",
+        "Station_id": 8294,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 172,
+        "Max_value": 196,
+        "Min_value": 146
+    },
+    {
+        "City_id": 185,
+        "Date": "2026-05-14",
+        "Station_id": 8294,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 172,
+        "Max_value": 196,
+        "Min_value": 146
+    },
+    {
+        "City_id": 186,
+        "Date": "2026-05-14",
+        "Station_id": 13653,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 93,
+        "Max_value": 157,
+        "Min_value": 45
+    },
+    {
+        "City_id": 187,
+        "Date": "2026-05-14",
+        "Station_id": 8033,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 76,
+        "Max_value": 79,
+        "Min_value": 71
+    },
+    {
+        "City_id": 188,
+        "Date": "2026-05-14",
+        "Station_id": 3782,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 94,
+        "Max_value": 119,
+        "Min_value": 82
+    },
+    {
+        "City_id": 190,
+        "Date": "2026-05-14",
+        "Station_id": 3770,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 91,
+        "Max_value": 123,
+        "Min_value": 80
+    },
+    {
+        "City_id": 191,
+        "Date": "2026-05-14",
+        "Station_id": 11790,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 138,
+        "Max_value": 158,
+        "Min_value": 89
+    },
+    {
+        "City_id": 192,
+        "Date": "2026-05-14",
+        "Station_id": 11765,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 150,
+        "Max_value": 159,
+        "Min_value": 103
+    },
+    {
+        "City_id": 197,
+        "Date": "2026-05-14",
+        "Station_id": 11791,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 108,
+        "Max_value": 138,
+        "Min_value": 68
+    },
+    {
+        "City_id": 198,
+        "Date": "2026-05-14",
+        "Station_id": 12417,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 14,
+        "Max_value": 20,
+        "Min_value": 10
+    },
+    {
+        "City_id": 199,
+        "Date": "2026-05-14",
+        "Station_id": 10141,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 80,
+        "Max_value": 98,
+        "Min_value": 63
+    },
+    {
+        "City_id": 200,
+        "Date": "2026-05-14",
+        "Station_id": 5115,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 17,
+        "Max_value": 18,
+        "Min_value": 15
+    },
+    {
+        "City_id": 201,
+        "Date": "2026-05-14",
+        "Station_id": 6016,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 8,
+        "Max_value": 13,
+        "Min_value": 5
+    },
+    {
+        "City_id": 202,
+        "Date": "2026-05-14",
+        "Station_id": 6444,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 44,
+        "Max_value": 49,
+        "Min_value": 30
+    },
+    {
+        "City_id": 203,
+        "Date": "2026-05-14",
+        "Station_id": 10726,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 16,
+        "Max_value": 18,
+        "Min_value": 15
+    },
+    {
+        "City_id": 204,
+        "Date": "2026-05-14",
+        "Station_id": 3268,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 12,
+        "Min_value": 10
+    },
+    {
+        "City_id": 205,
+        "Date": "2026-05-14",
+        "Station_id": 12492,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 12,
+        "Min_value": 9
+    },
+    {
+        "City_id": 207,
+        "Date": "2026-05-14",
+        "Station_id": 3264,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 15,
+        "Min_value": 10
+    },
+    {
+        "City_id": 208,
+        "Date": "2026-05-14",
+        "Station_id": 3247,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 56,
+        "Max_value": 80,
+        "Min_value": 31
+    },
+    {
+        "City_id": 209,
+        "Date": "2026-05-14",
+        "Station_id": 3299,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 23,
+        "Max_value": 25,
+        "Min_value": 22
+    },
+    {
+        "City_id": 210,
+        "Date": "2026-05-14",
+        "Station_id": 12748,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 12,
+        "Max_value": 16,
+        "Min_value": 10
+    },
+    {
+        "City_id": 211,
+        "Date": "2026-05-14",
+        "Station_id": 8525,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 10,
+        "Max_value": 14,
+        "Min_value": 9
+    },
+    {
+        "City_id": 212,
+        "Date": "2026-05-14",
+        "Station_id": 9096,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 15,
+        "Max_value": 24,
+        "Min_value": 4
+    },
+    {
+        "City_id": 213,
+        "Date": "2026-05-14",
+        "Station_id": 359,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 134,
+        "Max_value": 154,
+        "Min_value": 110
+    },
+    {
+        "City_id": 214,
+        "Date": "2026-05-14",
+        "Station_id": 14042,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 73,
+        "Max_value": 108,
+        "Min_value": 46
+    },
+    {
+        "City_id": 215,
+        "Date": "2026-05-14",
+        "Station_id": 14031,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 93,
+        "Max_value": 117,
+        "Min_value": 59
+    },
+    {
+        "City_id": 216,
+        "Date": "2026-05-14",
+        "Station_id": 6965,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 75,
+        "Max_value": 89,
+        "Min_value": 53
+    },
+    {
+        "City_id": 223,
+        "Date": "2026-05-14",
+        "Station_id": 8400,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 11,
+        "Max_value": 20,
+        "Min_value": 8
+    },
+    {
+        "City_id": 224,
+        "Date": "2026-05-14",
+        "Station_id": 8464,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 20,
+        "Max_value": 26,
+        "Min_value": 16
+    },
+    {
+        "City_id": 228,
+        "Date": "2026-05-14",
+        "Station_id": 380,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 56,
+        "Max_value": 62,
+        "Min_value": 51
+    },
+    {
+        "City_id": 233,
+        "Date": "2026-05-14",
+        "Station_id": 6236,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 35,
+        "Max_value": 55,
+        "Min_value": 20
+    },
+    {
+        "City_id": 234,
+        "Date": "2026-05-14",
+        "Station_id": 12513,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 24,
+        "Max_value": 39,
+        "Min_value": 9
+    },
+    {
+        "City_id": 237,
+        "Date": "2026-05-14",
+        "Station_id": 5186,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 21,
+        "Max_value": 26,
+        "Min_value": 16
+    },
+    {
+        "City_id": 238,
+        "Date": "2026-05-14",
+        "Station_id": 13842,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 55,
+        "Max_value": 75,
+        "Min_value": 27
+    },
+    {
+        "City_id": 239,
+        "Date": "2026-05-14",
+        "Station_id": 5336,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 26,
+        "Max_value": 52,
+        "Min_value": 11
+    },
+    {
+        "City_id": 240,
+        "Date": "2026-05-14",
+        "Station_id": 13842,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 55,
+        "Max_value": 75,
+        "Min_value": 27
+    },
+    {
+        "City_id": 245,
+        "Date": "2026-05-14",
+        "Station_id": 13450,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 106,
+        "Max_value": 158,
+        "Min_value": 56
+    },
+    {
+        "City_id": 253,
+        "Date": "2026-05-14",
+        "Station_id": 12572,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 31,
+        "Max_value": 47,
+        "Min_value": 22
+    },
+    {
+        "City_id": 254,
+        "Date": "2026-05-14",
+        "Station_id": 12829,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 32,
+        "Max_value": 55,
+        "Min_value": 7
+    },
+    {
+        "City_id": 255,
+        "Date": "2026-05-14",
+        "Station_id": 11834,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 75,
+        "Max_value": 134,
+        "Min_value": 33
+    },
+    {
+        "City_id": 256,
+        "Date": "2026-05-14",
+        "Station_id": 10777,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 36,
+        "Max_value": 53,
+        "Min_value": 16
+    },
+    {
+        "City_id": 257,
+        "Date": "2026-05-14",
+        "Station_id": 10771,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 7,
+        "Max_value": 12,
+        "Min_value": 3
+    },
+    {
+        "City_id": 258,
+        "Date": "2026-05-14",
+        "Station_id": 11411,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 46,
+        "Max_value": 57,
+        "Min_value": 34
+    },
+    {
+        "City_id": 259,
+        "Date": "2026-05-14",
+        "Station_id": 10751,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 15,
+        "Max_value": 35,
+        "Min_value": 11
+    },
+    {
+        "City_id": 265,
+        "Date": "2026-05-14",
+        "Station_id": 13818,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 86,
+        "Max_value": 128,
+        "Min_value": 62
+    },
+    {
+        "City_id": 267,
+        "Date": "2026-05-14",
+        "Station_id": 9059,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 90,
+        "Max_value": 119,
+        "Min_value": 70
+    },
+    {
+        "City_id": 268,
+        "Date": "2026-05-14",
+        "Station_id": 12826,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 23,
+        "Max_value": 36,
+        "Min_value": 15
+    },
+    {
+        "City_id": 270,
+        "Date": "2026-05-14",
+        "Station_id": 11732,
+        "Forecast_day": 14,
+        "Metric_type": "pm25",
+        "Avg_value": 39,
+        "Max_value": 61,
+        "Min_value": 24
+    }
+]

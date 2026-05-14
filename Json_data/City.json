@@ -1,0 +1,2762 @@
+[
+    {
+        "City_id": 1,
+        "Open_Weather_City_id": 1273294,
+        "City": "Delhi",
+        "Country": "IN",
+        "Latitude": 28.6667,
+        "Longitude": 77.2167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 2,
+        "Open_Weather_City_id": 1275339,
+        "City": "Mumbai",
+        "Country": "IN",
+        "Latitude": 19.0144,
+        "Longitude": 72.8479,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 3,
+        "Open_Weather_City_id": 1277333,
+        "City": "Bangalore",
+        "Country": "IN",
+        "Latitude": 12.9762,
+        "Longitude": 77.6033,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 4,
+        "Open_Weather_City_id": 1275004,
+        "City": "Kolkata",
+        "Country": "IN",
+        "Latitude": 22.5697,
+        "Longitude": 88.3697,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 5,
+        "Open_Weather_City_id": 1264527,
+        "City": "Chennai",
+        "Country": "IN",
+        "Latitude": 13.0878,
+        "Longitude": 80.2785,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 6,
+        "Open_Weather_City_id": 1269843,
+        "City": "Hyderabad",
+        "Country": "IN",
+        "Latitude": 17.3753,
+        "Longitude": 78.4744,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 7,
+        "Open_Weather_City_id": 1259229,
+        "City": "Pune",
+        "Country": "IN",
+        "Latitude": 18.5196,
+        "Longitude": 73.8553,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 8,
+        "Open_Weather_City_id": 1279233,
+        "City": "Ahmedabad",
+        "Country": "IN",
+        "Latitude": 23.0333,
+        "Longitude": 72.6167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 9,
+        "Open_Weather_City_id": 1269515,
+        "City": "Jaipur",
+        "Country": "IN",
+        "Latitude": 26.9167,
+        "Longitude": 75.8167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 10,
+        "Open_Weather_City_id": 1264733,
+        "City": "Lucknow",
+        "Country": "IN",
+        "Latitude": 26.85,
+        "Longitude": 80.9167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 11,
+        "Open_Weather_City_id": 1267995,
+        "City": "Kanpur",
+        "Country": "IN",
+        "Latitude": 26.4667,
+        "Longitude": 80.35,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 12,
+        "Open_Weather_City_id": 1262180,
+        "City": "Nagpur",
+        "Country": "IN",
+        "Latitude": 21.15,
+        "Longitude": 79.1,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 13,
+        "Open_Weather_City_id": 1269743,
+        "City": "Indore",
+        "Country": "IN",
+        "Latitude": 22.7179,
+        "Longitude": 75.8333,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 14,
+        "Open_Weather_City_id": 1254661,
+        "City": "Thane",
+        "Country": "IN",
+        "Latitude": 19.2,
+        "Longitude": 72.9667,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 15,
+        "Open_Weather_City_id": 1275841,
+        "City": "Bhopal",
+        "Country": "IN",
+        "Latitude": 23.2667,
+        "Longitude": 77.4,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 16,
+        "Open_Weather_City_id": 1253102,
+        "City": "Visakhapatnam",
+        "Country": "IN",
+        "Latitude": 17.69,
+        "Longitude": 83.2093,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 17,
+        "Open_Weather_City_id": 1255364,
+        "City": "Surat",
+        "Country": "IN",
+        "Latitude": 21.1667,
+        "Longitude": 72.8333,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 18,
+        "Open_Weather_City_id": 1260086,
+        "City": "Patna",
+        "Country": "IN",
+        "Latitude": 25.6,
+        "Longitude": 85.1167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 19,
+        "Open_Weather_City_id": 1253573,
+        "City": "Vadodara",
+        "Country": "IN",
+        "Latitude": 22.3,
+        "Longitude": 73.2,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 20,
+        "Open_Weather_City_id": 1271308,
+        "City": "Ghaziabad",
+        "Country": "IN",
+        "Latitude": 28.6667,
+        "Longitude": 77.4333,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 21,
+        "Open_Weather_City_id": 1264728,
+        "City": "Ludhiana",
+        "Country": "IN",
+        "Latitude": 30.9,
+        "Longitude": 75.85,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 22,
+        "Open_Weather_City_id": 1279259,
+        "City": "Agra",
+        "Country": "IN",
+        "Latitude": 27.1833,
+        "Longitude": 78.0167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 23,
+        "Open_Weather_City_id": 1261731,
+        "City": "Nashik",
+        "Country": "IN",
+        "Latitude": 19.9833,
+        "Longitude": 73.8,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 24,
+        "Open_Weather_City_id": 1271951,
+        "City": "Faridabad",
+        "Country": "IN",
+        "Latitude": 28.4333,
+        "Longitude": 77.3167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 25,
+        "Open_Weather_City_id": 1263214,
+        "City": "Meerut",
+        "Country": "IN",
+        "Latitude": 28.9833,
+        "Longitude": 77.7,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 26,
+        "Open_Weather_City_id": 1258847,
+        "City": "Rajkot",
+        "Country": "IN",
+        "Latitude": 22.3,
+        "Longitude": 70.7833,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 27,
+        "Open_Weather_City_id": 1253405,
+        "City": "Varanasi",
+        "Country": "IN",
+        "Latitude": 25.3333,
+        "Longitude": 83,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 28,
+        "Open_Weather_City_id": 1255634,
+        "City": "Srinagar",
+        "Country": "IN",
+        "Latitude": 34.0833,
+        "Longitude": 74.8167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 29,
+        "Open_Weather_City_id": 1278149,
+        "City": "Aurangabad",
+        "Country": "IN",
+        "Latitude": 19.8833,
+        "Longitude": 75.3333,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 30,
+        "Open_Weather_City_id": 1272979,
+        "City": "Dhanbad",
+        "Country": "IN",
+        "Latitude": 23.8,
+        "Longitude": 86.45,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 31,
+        "Open_Weather_City_id": 1278710,
+        "City": "Amritsar",
+        "Country": "IN",
+        "Latitude": 31.6331,
+        "Longitude": 74.8656,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 32,
+        "Open_Weather_City_id": 1278994,
+        "City": "Allahabad",
+        "Country": "IN",
+        "Latitude": 25.45,
+        "Longitude": 81.85,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 33,
+        "Open_Weather_City_id": 1258526,
+        "City": "Ranchi",
+        "Country": "IN",
+        "Latitude": 23.35,
+        "Longitude": 85.3333,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 34,
+        "Open_Weather_City_id": 1273865,
+        "City": "Coimbatore",
+        "Country": "IN",
+        "Latitude": 11,
+        "Longitude": 76.9667,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 35,
+        "Open_Weather_City_id": 1269633,
+        "City": "Jabalpur",
+        "Country": "IN",
+        "Latitude": 23.167,
+        "Longitude": 79.9501,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 36,
+        "Open_Weather_City_id": 1270583,
+        "City": "Gwalior",
+        "Country": "IN",
+        "Latitude": 26.2236,
+        "Longitude": 78.1792,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 37,
+        "Open_Weather_City_id": 1253184,
+        "City": "Vijayawada",
+        "Country": "IN",
+        "Latitude": 16.5167,
+        "Longitude": 80.6167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 38,
+        "Open_Weather_City_id": 1268865,
+        "City": "Jodhpur",
+        "Country": "IN",
+        "Latitude": 26.2867,
+        "Longitude": 73.03,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 39,
+        "Open_Weather_City_id": 1264521,
+        "City": "Madurai",
+        "Country": "IN",
+        "Latitude": 9.9333,
+        "Longitude": 78.1167,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 40,
+        "Open_Weather_City_id": 1258980,
+        "City": "Raipur",
+        "Country": "IN",
+        "Latitude": 21.2333,
+        "Longitude": 81.6333,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 41,
+        "Open_Weather_City_id": 1273874,
+        "City": "Kochi",
+        "Country": "IN",
+        "Latitude": 9.9399,
+        "Longitude": 76.2602,
+        "Timezone_offset": 19800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 42,
+        "Open_Weather_City_id": 2643743,
+        "City": "London",
+        "Country": "GB",
+        "Latitude": 51.5085,
+        "Longitude": -0.1257,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 43,
+        "Open_Weather_City_id": 2988507,
+        "City": "Paris",
+        "Country": "FR",
+        "Latitude": 48.8534,
+        "Longitude": 2.3488,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 44,
+        "Open_Weather_City_id": 2950159,
+        "City": "Berlin",
+        "Country": "DE",
+        "Latitude": 52.5244,
+        "Longitude": 13.4105,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 45,
+        "Open_Weather_City_id": 3117735,
+        "City": "Madrid",
+        "Country": "ES",
+        "Latitude": 40.4165,
+        "Longitude": -3.7026,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 46,
+        "Open_Weather_City_id": 4219762,
+        "City": "Rome",
+        "Country": "US",
+        "Latitude": 34.257,
+        "Longitude": -85.1647,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 47,
+        "Open_Weather_City_id": 2759794,
+        "City": "Amsterdam",
+        "Country": "NL",
+        "Latitude": 52.374,
+        "Longitude": 4.8897,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 48,
+        "Open_Weather_City_id": 2761369,
+        "City": "Vienna",
+        "Country": "AT",
+        "Latitude": 48.2085,
+        "Longitude": 16.3721,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 49,
+        "Open_Weather_City_id": 2673730,
+        "City": "Stockholm",
+        "Country": "SE",
+        "Latitude": 59.3326,
+        "Longitude": 18.0649,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 50,
+        "Open_Weather_City_id": 524901,
+        "City": "Moscow",
+        "Country": "RU",
+        "Latitude": 55.7522,
+        "Longitude": 37.6156,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 51,
+        "Open_Weather_City_id": 745042,
+        "City": "Istanbul",
+        "Country": "TR",
+        "Latitude": 41.0351,
+        "Longitude": 28.9833,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 52,
+        "Open_Weather_City_id": 3173435,
+        "City": "Milan",
+        "Country": "IT",
+        "Latitude": 45.4643,
+        "Longitude": 9.1895,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 53,
+        "Open_Weather_City_id": 3128760,
+        "City": "Barcelona",
+        "Country": "ES",
+        "Latitude": 41.3888,
+        "Longitude": 2.159,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 54,
+        "Open_Weather_City_id": 2867714,
+        "City": "Munich",
+        "Country": "DE",
+        "Latitude": 48.1374,
+        "Longitude": 11.5755,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 55,
+        "Open_Weather_City_id": 3067696,
+        "City": "Prague",
+        "Country": "CZ",
+        "Latitude": 50.088,
+        "Longitude": 14.4208,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 56,
+        "Open_Weather_City_id": 2800866,
+        "City": "Brussels",
+        "Country": "BE",
+        "Latitude": 50.8504,
+        "Longitude": 4.3488,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 57,
+        "Open_Weather_City_id": 756135,
+        "City": "Warsaw",
+        "Country": "PL",
+        "Latitude": 52.2298,
+        "Longitude": 21.0118,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 58,
+        "Open_Weather_City_id": 3054643,
+        "City": "Budapest",
+        "Country": "HU",
+        "Latitude": 47.498,
+        "Longitude": 19.0399,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 59,
+        "Open_Weather_City_id": 2657896,
+        "City": "Zurich",
+        "Country": "CH",
+        "Latitude": 47.3667,
+        "Longitude": 8.55,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 60,
+        "Open_Weather_City_id": 2618425,
+        "City": "Copenhagen",
+        "Country": "DK",
+        "Latitude": 55.6759,
+        "Longitude": 12.5655,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 61,
+        "Open_Weather_City_id": 3143244,
+        "City": "Oslo",
+        "Country": "NO",
+        "Latitude": 59.9127,
+        "Longitude": 10.7461,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 62,
+        "Open_Weather_City_id": 658225,
+        "City": "Helsinki",
+        "Country": "FI",
+        "Latitude": 60.1695,
+        "Longitude": 24.9355,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 63,
+        "Open_Weather_City_id": 5344157,
+        "City": "Dublin",
+        "Country": "US",
+        "Latitude": 37.7021,
+        "Longitude": -121.9358,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 64,
+        "Open_Weather_City_id": 2267057,
+        "City": "Lisbon",
+        "Country": "PT",
+        "Latitude": 38.7167,
+        "Longitude": -9.1333,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 65,
+        "Open_Weather_City_id": 264371,
+        "City": "Athens",
+        "Country": "GR",
+        "Latitude": 37.9795,
+        "Longitude": 23.7162,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 66,
+        "Open_Weather_City_id": 2650225,
+        "City": "Edinburgh",
+        "Country": "GB",
+        "Latitude": 55.9521,
+        "Longitude": -3.1965,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 67,
+        "Open_Weather_City_id": 2648579,
+        "City": "Glasgow",
+        "Country": "GB",
+        "Latitude": 55.8652,
+        "Longitude": -4.2576,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 68,
+        "Open_Weather_City_id": 2643123,
+        "City": "Manchester",
+        "Country": "GB",
+        "Latitude": 53.4809,
+        "Longitude": -2.2374,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 69,
+        "Open_Weather_City_id": 4049979,
+        "City": "Birmingham",
+        "Country": "US",
+        "Latitude": 33.5207,
+        "Longitude": -86.8025,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 70,
+        "Open_Weather_City_id": 2644210,
+        "City": "Liverpool",
+        "Country": "GB",
+        "Latitude": 53.4106,
+        "Longitude": -2.9779,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 71,
+        "Open_Weather_City_id": 3333164,
+        "City": "Leeds",
+        "Country": "GB",
+        "Latitude": 53.7964,
+        "Longitude": -1.5477,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 72,
+        "Open_Weather_City_id": 2925533,
+        "City": "Frankfurt",
+        "Country": "DE",
+        "Latitude": 50.1167,
+        "Longitude": 8.6833,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 73,
+        "Open_Weather_City_id": 2911298,
+        "City": "Hamburg",
+        "Country": "DE",
+        "Latitude": 53.55,
+        "Longitude": 10,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 74,
+        "Open_Weather_City_id": 2886242,
+        "City": "Cologne",
+        "Country": "DE",
+        "Latitude": 50.9333,
+        "Longitude": 6.95,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 75,
+        "Open_Weather_City_id": 2825297,
+        "City": "Stuttgart",
+        "Country": "DE",
+        "Latitude": 48.7823,
+        "Longitude": 9.177,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 76,
+        "Open_Weather_City_id": 2934246,
+        "City": "Dusseldorf",
+        "Country": "DE",
+        "Latitude": 51.2217,
+        "Longitude": 6.7762,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 77,
+        "Open_Weather_City_id": 6548737,
+        "City": "Leipzig",
+        "Country": "DE",
+        "Latitude": 51.342,
+        "Longitude": 12.375,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 78,
+        "Open_Weather_City_id": 2935022,
+        "City": "Dresden",
+        "Country": "DE",
+        "Latitude": 51.0509,
+        "Longitude": 13.7383,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 79,
+        "Open_Weather_City_id": 2990968,
+        "City": "Nantes",
+        "Country": "FR",
+        "Latitude": 47.1667,
+        "Longitude": -1.5833,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 80,
+        "Open_Weather_City_id": 2996943,
+        "City": "Lyon",
+        "Country": "FR",
+        "Latitude": 45.75,
+        "Longitude": 4.5833,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 81,
+        "Open_Weather_City_id": 2995468,
+        "City": "Marseille",
+        "Country": "FR",
+        "Latitude": 43.3333,
+        "Longitude": 5.5,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 82,
+        "Open_Weather_City_id": 2972315,
+        "City": "Toulouse",
+        "Country": "FR",
+        "Latitude": 43.6043,
+        "Longitude": 1.4437,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 83,
+        "Open_Weather_City_id": 2990439,
+        "City": "Nice",
+        "Country": "FR",
+        "Latitude": 44,
+        "Longitude": 7.25,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 84,
+        "Open_Weather_City_id": 2973783,
+        "City": "Strasbourg",
+        "Country": "FR",
+        "Latitude": 48.5834,
+        "Longitude": 7.743,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 85,
+        "Open_Weather_City_id": 3031582,
+        "City": "Bordeaux",
+        "Country": "FR",
+        "Latitude": 44.8404,
+        "Longitude": -0.5805,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 86,
+        "Open_Weather_City_id": 2998324,
+        "City": "Lille",
+        "Country": "FR",
+        "Latitude": 50.633,
+        "Longitude": 3.0586,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 87,
+        "Open_Weather_City_id": 2983989,
+        "City": "Rennes",
+        "Country": "FR",
+        "Latitude": 48.1667,
+        "Longitude": -1.6667,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 88,
+        "Open_Weather_City_id": 4893591,
+        "City": "Geneva",
+        "Country": "US",
+        "Latitude": 41.8875,
+        "Longitude": -88.3054,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 89,
+        "Open_Weather_City_id": 2659994,
+        "City": "Lausanne",
+        "Country": "CH",
+        "Latitude": 46.516,
+        "Longitude": 6.6328,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 90,
+        "Open_Weather_City_id": 2661604,
+        "City": "Basel",
+        "Country": "CH",
+        "Latitude": 47.5584,
+        "Longitude": 7.5733,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 91,
+        "Open_Weather_City_id": 2661552,
+        "City": "Bern",
+        "Country": "CH",
+        "Latitude": 46.9481,
+        "Longitude": 7.4474,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 92,
+        "Open_Weather_City_id": 5128581,
+        "City": "New York",
+        "Country": "US",
+        "Latitude": 40.7143,
+        "Longitude": -74.006,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 93,
+        "Open_Weather_City_id": 5368361,
+        "City": "Los Angeles",
+        "Country": "US",
+        "Latitude": 34.0522,
+        "Longitude": -118.2437,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 94,
+        "Open_Weather_City_id": 4887398,
+        "City": "Chicago",
+        "Country": "US",
+        "Latitude": 41.85,
+        "Longitude": -87.65,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 95,
+        "Open_Weather_City_id": 4699066,
+        "City": "Houston",
+        "Country": "US",
+        "Latitude": 29.7633,
+        "Longitude": -95.3633,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 96,
+        "Open_Weather_City_id": 6167865,
+        "City": "Toronto",
+        "Country": "CA",
+        "Latitude": 43.7001,
+        "Longitude": -79.4163,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 97,
+        "Open_Weather_City_id": 3530597,
+        "City": "Mexico City",
+        "Country": "MX",
+        "Latitude": 19.4285,
+        "Longitude": -99.1277,
+        "Timezone_offset": -21600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 98,
+        "Open_Weather_City_id": 5391959,
+        "City": "San Francisco",
+        "Country": "US",
+        "Latitude": 37.7749,
+        "Longitude": -122.4194,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 99,
+        "Open_Weather_City_id": 5809844,
+        "City": "Seattle",
+        "Country": "US",
+        "Latitude": 47.6062,
+        "Longitude": -122.3321,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 100,
+        "Open_Weather_City_id": 4164138,
+        "City": "Miami",
+        "Country": "US",
+        "Latitude": 25.7743,
+        "Longitude": -80.1937,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 101,
+        "Open_Weather_City_id": 4930956,
+        "City": "Boston",
+        "Country": "US",
+        "Latitude": 42.3584,
+        "Longitude": -71.0598,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 102,
+        "Open_Weather_City_id": 6173331,
+        "City": "Vancouver",
+        "Country": "CA",
+        "Latitude": 49.2497,
+        "Longitude": -123.1193,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 103,
+        "Open_Weather_City_id": 6077243,
+        "City": "Montreal",
+        "Country": "CA",
+        "Latitude": 45.5088,
+        "Longitude": -73.5878,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 104,
+        "Open_Weather_City_id": 5308655,
+        "City": "Phoenix",
+        "Country": "US",
+        "Latitude": 33.4484,
+        "Longitude": -112.074,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 105,
+        "Open_Weather_City_id": 4560349,
+        "City": "Philadelphia",
+        "Country": "US",
+        "Latitude": 39.9523,
+        "Longitude": -75.1638,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 106,
+        "Open_Weather_City_id": 5391811,
+        "City": "San Diego",
+        "Country": "US",
+        "Latitude": 32.7153,
+        "Longitude": -117.1573,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 107,
+        "Open_Weather_City_id": 4684904,
+        "City": "Dallas",
+        "Country": "US",
+        "Latitude": 32.7668,
+        "Longitude": -96.7836,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 108,
+        "Open_Weather_City_id": 4671654,
+        "City": "Austin",
+        "Country": "US",
+        "Latitude": 30.2672,
+        "Longitude": -97.7431,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 109,
+        "Open_Weather_City_id": 5419384,
+        "City": "Denver",
+        "Country": "US",
+        "Latitude": 39.7392,
+        "Longitude": -104.9847,
+        "Timezone_offset": -21600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 110,
+        "Open_Weather_City_id": 5815135,
+        "City": "Washington",
+        "Country": "US",
+        "Latitude": 47.5001,
+        "Longitude": -120.5015,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 111,
+        "Open_Weather_City_id": 4180439,
+        "City": "Atlanta",
+        "Country": "US",
+        "Latitude": 33.749,
+        "Longitude": -84.388,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 112,
+        "Open_Weather_City_id": 5746545,
+        "City": "Portland",
+        "Country": "US",
+        "Latitude": 45.5234,
+        "Longitude": -122.6762,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 113,
+        "Open_Weather_City_id": 5506956,
+        "City": "Las Vegas",
+        "Country": "US",
+        "Latitude": 36.175,
+        "Longitude": -115.1372,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 114,
+        "Open_Weather_City_id": 4990729,
+        "City": "Detroit",
+        "Country": "US",
+        "Latitude": 42.3314,
+        "Longitude": -83.0458,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 115,
+        "Open_Weather_City_id": 4644585,
+        "City": "Nashville",
+        "Country": "US",
+        "Latitude": 36.1659,
+        "Longitude": -86.7844,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 116,
+        "Open_Weather_City_id": 4347778,
+        "City": "Baltimore",
+        "Country": "US",
+        "Latitude": 39.2904,
+        "Longitude": -76.6122,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 117,
+        "Open_Weather_City_id": 4726206,
+        "City": "San Antonio",
+        "Country": "US",
+        "Latitude": 29.4241,
+        "Longitude": -98.4936,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 118,
+        "Open_Weather_City_id": 5392171,
+        "City": "San Jose",
+        "Country": "US",
+        "Latitude": 37.3394,
+        "Longitude": -121.895,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 119,
+        "Open_Weather_City_id": 4509177,
+        "City": "Columbus",
+        "Country": "US",
+        "Latitude": 39.9612,
+        "Longitude": -82.9988,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 120,
+        "Open_Weather_City_id": 4460243,
+        "City": "Charlotte",
+        "Country": "US",
+        "Latitude": 35.2271,
+        "Longitude": -80.8431,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 121,
+        "Open_Weather_City_id": 4259418,
+        "City": "Indianapolis",
+        "Country": "US",
+        "Latitude": 39.7684,
+        "Longitude": -86.158,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 122,
+        "Open_Weather_City_id": 4691930,
+        "City": "Fort Worth",
+        "Country": "US",
+        "Latitude": 32.7254,
+        "Longitude": -97.3208,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 123,
+        "Open_Weather_City_id": 4160021,
+        "City": "Jacksonville",
+        "Country": "US",
+        "Latitude": 30.3322,
+        "Longitude": -81.6556,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 124,
+        "Open_Weather_City_id": 5521001,
+        "City": "El Paso",
+        "Country": "US",
+        "Latitude": 31.8001,
+        "Longitude": -106.2005,
+        "Timezone_offset": -21600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 125,
+        "Open_Weather_City_id": 4641239,
+        "City": "Memphis",
+        "Country": "US",
+        "Latitude": 35.1495,
+        "Longitude": -90.049,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 126,
+        "Open_Weather_City_id": 4544349,
+        "City": "Oklahoma City",
+        "Country": "US",
+        "Latitude": 35.4676,
+        "Longitude": -97.5164,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 127,
+        "Open_Weather_City_id": 4299276,
+        "City": "Louisville",
+        "Country": "US",
+        "Latitude": 38.2542,
+        "Longitude": -85.7594,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 128,
+        "Open_Weather_City_id": 5263058,
+        "City": "Milwaukee",
+        "Country": "US",
+        "Latitude": 43.0006,
+        "Longitude": -87.9668,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 129,
+        "Open_Weather_City_id": 5454711,
+        "City": "Albuquerque",
+        "Country": "US",
+        "Latitude": 35.0845,
+        "Longitude": -106.6511,
+        "Timezone_offset": -21600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 130,
+        "Open_Weather_City_id": 5318313,
+        "City": "Tucson",
+        "Country": "US",
+        "Latitude": 32.2217,
+        "Longitude": -110.9265,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 131,
+        "Open_Weather_City_id": 5389519,
+        "City": "Sacramento",
+        "Country": "US",
+        "Latitude": 38.4666,
+        "Longitude": -121.3177,
+        "Timezone_offset": -25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 132,
+        "Open_Weather_City_id": 4393217,
+        "City": "Kansas City",
+        "Country": "US",
+        "Latitude": 39.0997,
+        "Longitude": -94.5786,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 133,
+        "Open_Weather_City_id": 5074472,
+        "City": "Omaha",
+        "Country": "US",
+        "Latitude": 41.2586,
+        "Longitude": -95.9378,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 134,
+        "Open_Weather_City_id": 4487042,
+        "City": "Raleigh",
+        "Country": "US",
+        "Latitude": 35.7721,
+        "Longitude": -78.6386,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 135,
+        "Open_Weather_City_id": 5150529,
+        "City": "Cleveland",
+        "Country": "US",
+        "Latitude": 41.4995,
+        "Longitude": -81.6954,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 136,
+        "Open_Weather_City_id": 4508722,
+        "City": "Cincinnati",
+        "Country": "US",
+        "Latitude": 39.162,
+        "Longitude": -84.4569,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 137,
+        "Open_Weather_City_id": 5206379,
+        "City": "Pittsburgh",
+        "Country": "US",
+        "Latitude": 40.4406,
+        "Longitude": -79.9959,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 138,
+        "Open_Weather_City_id": 1850144,
+        "City": "Tokyo",
+        "Country": "JP",
+        "Latitude": 35.6895,
+        "Longitude": 139.6917,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 139,
+        "Open_Weather_City_id": 1848354,
+        "City": "Yokohama",
+        "Country": "JP",
+        "Latitude": 35.4478,
+        "Longitude": 139.6425,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 140,
+        "Open_Weather_City_id": 1853909,
+        "City": "Osaka",
+        "Country": "JP",
+        "Latitude": 34.6937,
+        "Longitude": 135.5022,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 141,
+        "Open_Weather_City_id": 1856057,
+        "City": "Nagoya",
+        "Country": "JP",
+        "Latitude": 35.1815,
+        "Longitude": 136.9064,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 142,
+        "Open_Weather_City_id": 2128295,
+        "City": "Sapporo",
+        "Country": "JP",
+        "Latitude": 43.0642,
+        "Longitude": 141.3469,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 143,
+        "Open_Weather_City_id": 1863967,
+        "City": "Fukuoka",
+        "Country": "JP",
+        "Latitude": 33.6064,
+        "Longitude": 130.4181,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 144,
+        "Open_Weather_City_id": 1859171,
+        "City": "Kobe",
+        "Country": "JP",
+        "Latitude": 34.6913,
+        "Longitude": 135.183,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 145,
+        "Open_Weather_City_id": 1857910,
+        "City": "Kyoto",
+        "Country": "JP",
+        "Latitude": 35.0211,
+        "Longitude": 135.7538,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 146,
+        "Open_Weather_City_id": 1859642,
+        "City": "Kawasaki",
+        "Country": "JP",
+        "Latitude": 35.5206,
+        "Longitude": 139.7172,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 147,
+        "Open_Weather_City_id": 6940394,
+        "City": "Saitama",
+        "Country": "JP",
+        "Latitude": 35.9081,
+        "Longitude": 139.6566,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 148,
+        "Open_Weather_City_id": 1816670,
+        "City": "Beijing",
+        "Country": "CN",
+        "Latitude": 39.9075,
+        "Longitude": 116.3972,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 149,
+        "Open_Weather_City_id": 1796236,
+        "City": "Shanghai",
+        "Country": "CN",
+        "Latitude": 31.2222,
+        "Longitude": 121.4581,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 150,
+        "Open_Weather_City_id": 1809858,
+        "City": "Guangzhou",
+        "Country": "CN",
+        "Latitude": 23.1167,
+        "Longitude": 113.25,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 151,
+        "Open_Weather_City_id": 1795565,
+        "City": "Shenzhen",
+        "Country": "CN",
+        "Latitude": 22.5455,
+        "Longitude": 114.0683,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 152,
+        "Open_Weather_City_id": 1815286,
+        "City": "Chengdu",
+        "Country": "CN",
+        "Latitude": 30.6667,
+        "Longitude": 104.0667,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 153,
+        "Open_Weather_City_id": 1808926,
+        "City": "Hangzhou",
+        "Country": "CN",
+        "Latitude": 30.2937,
+        "Longitude": 120.1614,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 154,
+        "Open_Weather_City_id": 1791247,
+        "City": "Wuhan",
+        "Country": "CN",
+        "Latitude": 30.5833,
+        "Longitude": 114.2667,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 155,
+        "Open_Weather_City_id": 1790630,
+        "City": "Xi'an",
+        "Country": "CN",
+        "Latitude": 34.2583,
+        "Longitude": 108.9286,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 156,
+        "Open_Weather_City_id": 1799962,
+        "City": "Nanjing",
+        "Country": "CN",
+        "Latitude": 32.0617,
+        "Longitude": 118.7778,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 157,
+        "Open_Weather_City_id": 1814906,
+        "City": "Chongqing",
+        "Country": "CN",
+        "Latitude": 29.5628,
+        "Longitude": 106.5528,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 158,
+        "Open_Weather_City_id": 1792947,
+        "City": "Tianjin",
+        "Country": "CN",
+        "Latitude": 39.1422,
+        "Longitude": 117.1767,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 159,
+        "Open_Weather_City_id": 1886760,
+        "City": "Suzhou",
+        "Country": "CN",
+        "Latitude": 31.3114,
+        "Longitude": 120.6181,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 160,
+        "Open_Weather_City_id": 2037013,
+        "City": "Harbin",
+        "Country": "CN",
+        "Latitude": 45.75,
+        "Longitude": 126.65,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 161,
+        "Open_Weather_City_id": 1805753,
+        "City": "Jinan",
+        "Country": "CN",
+        "Latitude": 36.6683,
+        "Longitude": 116.9972,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 162,
+        "Open_Weather_City_id": 1784658,
+        "City": "Zhengzhou",
+        "Country": "CN",
+        "Latitude": 34.7578,
+        "Longitude": 113.6486,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 163,
+        "Open_Weather_City_id": 1815577,
+        "City": "Changsha",
+        "Country": "CN",
+        "Latitude": 28.2,
+        "Longitude": 112.9667,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 164,
+        "Open_Weather_City_id": 1814087,
+        "City": "Dalian",
+        "Country": "CN",
+        "Latitude": 38.9122,
+        "Longitude": 121.6022,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 165,
+        "Open_Weather_City_id": 1797929,
+        "City": "Qingdao",
+        "Country": "CN",
+        "Latitude": 36.0986,
+        "Longitude": 120.3719,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 166,
+        "Open_Weather_City_id": 1835848,
+        "City": "Seoul",
+        "Country": "KR",
+        "Latitude": 37.5683,
+        "Longitude": 126.9778,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 167,
+        "Open_Weather_City_id": 1838524,
+        "City": "Busan",
+        "Country": "KR",
+        "Latitude": 35.1028,
+        "Longitude": 129.0403,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 168,
+        "Open_Weather_City_id": 1843561,
+        "City": "Incheon",
+        "Country": "KR",
+        "Latitude": 37.45,
+        "Longitude": 126.4161,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 169,
+        "Open_Weather_City_id": 1835327,
+        "City": "Daegu",
+        "Country": "KR",
+        "Latitude": 35.8,
+        "Longitude": 128.55,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 170,
+        "Open_Weather_City_id": 1835224,
+        "City": "Daejeon",
+        "Country": "KR",
+        "Latitude": 36.3333,
+        "Longitude": 127.4167,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 171,
+        "Open_Weather_City_id": 1841811,
+        "City": "Gwangju",
+        "Country": "KR",
+        "Latitude": 35.1547,
+        "Longitude": 126.9156,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 172,
+        "Open_Weather_City_id": 1833747,
+        "City": "Ulsan",
+        "Country": "KR",
+        "Latitude": 35.5372,
+        "Longitude": 129.3167,
+        "Timezone_offset": 32400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 173,
+        "Open_Weather_City_id": 1609350,
+        "City": "Bangkok",
+        "Country": "TH",
+        "Latitude": 13.75,
+        "Longitude": 100.5167,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 174,
+        "Open_Weather_City_id": 1608132,
+        "City": "Nonthaburi",
+        "Country": "TH",
+        "Latitude": 13.75,
+        "Longitude": 100.5,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 175,
+        "Open_Weather_City_id": 1608528,
+        "City": "Nakhon Ratchasima",
+        "Country": "TH",
+        "Latitude": 15,
+        "Longitude": 102.1667,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 176,
+        "Open_Weather_City_id": 1153670,
+        "City": "Chiang Mai",
+        "Country": "TH",
+        "Latitude": 18.75,
+        "Longitude": 99,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 177,
+        "Open_Weather_City_id": 1610780,
+        "City": "Hat Yai",
+        "Country": "TH",
+        "Latitude": 7.0084,
+        "Longitude": 100.4767,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 178,
+        "Open_Weather_City_id": 1880252,
+        "City": "Singapore",
+        "Country": "SG",
+        "Latitude": 1.2897,
+        "Longitude": 103.8501,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 179,
+        "Open_Weather_City_id": 1819729,
+        "City": "Hong Kong",
+        "Country": "HK",
+        "Latitude": 22.2855,
+        "Longitude": 114.1577,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 180,
+        "Open_Weather_City_id": 1642911,
+        "City": "Jakarta",
+        "Country": "ID",
+        "Latitude": -6.2146,
+        "Longitude": 106.8451,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 181,
+        "Open_Weather_City_id": 1625822,
+        "City": "Surabaya",
+        "Country": "ID",
+        "Latitude": -7.2492,
+        "Longitude": 112.7508,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 182,
+        "Open_Weather_City_id": 1650357,
+        "City": "Bandung",
+        "Country": "ID",
+        "Latitude": -6.9039,
+        "Longitude": 107.6186,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 183,
+        "Open_Weather_City_id": 1214520,
+        "City": "Medan",
+        "Country": "ID",
+        "Latitude": 3.5833,
+        "Longitude": 98.6667,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 184,
+        "Open_Weather_City_id": 1649378,
+        "City": "Bekasi",
+        "Country": "ID",
+        "Latitude": -6.2349,
+        "Longitude": 106.9896,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 185,
+        "Open_Weather_City_id": 1625084,
+        "City": "Tangerang",
+        "Country": "ID",
+        "Latitude": -6.1781,
+        "Longitude": 106.63,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 186,
+        "Open_Weather_City_id": 1645524,
+        "City": "Depok",
+        "Country": "ID",
+        "Latitude": -6.4,
+        "Longitude": 106.8186,
+        "Timezone_offset": 25200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 187,
+        "Open_Weather_City_id": 292223,
+        "City": "Dubai",
+        "Country": "AE",
+        "Latitude": 25.2582,
+        "Longitude": 55.3047,
+        "Timezone_offset": 14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 188,
+        "Open_Weather_City_id": 292968,
+        "City": "Abu Dhabi",
+        "Country": "AE",
+        "Latitude": 24.4667,
+        "Longitude": 54.3667,
+        "Timezone_offset": 14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 189,
+        "Open_Weather_City_id": 292672,
+        "City": "Sharjah",
+        "Country": "AE",
+        "Latitude": 25.3573,
+        "Longitude": 55.4033,
+        "Timezone_offset": 14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 190,
+        "Open_Weather_City_id": 292913,
+        "City": "Al Ain",
+        "Country": "AE",
+        "Latitude": 24.1917,
+        "Longitude": 55.7606,
+        "Timezone_offset": 14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 191,
+        "Open_Weather_City_id": 1174872,
+        "City": "Karachi",
+        "Country": "PK",
+        "Latitude": 24.9056,
+        "Longitude": 67.0822,
+        "Timezone_offset": 18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 192,
+        "Open_Weather_City_id": 1172451,
+        "City": "Lahore",
+        "Country": "PK",
+        "Latitude": 31.5497,
+        "Longitude": 74.3436,
+        "Timezone_offset": 18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 193,
+        "Open_Weather_City_id": 1166993,
+        "City": "Rawalpindi",
+        "Country": "PK",
+        "Latitude": 33.6007,
+        "Longitude": 73.0679,
+        "Timezone_offset": 18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 194,
+        "Open_Weather_City_id": 1177662,
+        "City": "Gujranwala",
+        "Country": "PK",
+        "Latitude": 32.1617,
+        "Longitude": 74.1883,
+        "Timezone_offset": 18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 195,
+        "Open_Weather_City_id": 1179400,
+        "City": "Faisalabad",
+        "Country": "PK",
+        "Latitude": 31.4167,
+        "Longitude": 73.0833,
+        "Timezone_offset": 18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 196,
+        "Open_Weather_City_id": 1169825,
+        "City": "Multan",
+        "Country": "PK",
+        "Latitude": 30.1956,
+        "Longitude": 71.4753,
+        "Timezone_offset": 18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 197,
+        "Open_Weather_City_id": 1168197,
+        "City": "Peshawar",
+        "Country": "PK",
+        "Latitude": 34.008,
+        "Longitude": 71.5785,
+        "Timezone_offset": 18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 198,
+        "Open_Weather_City_id": 2147714,
+        "City": "Sydney",
+        "Country": "AU",
+        "Latitude": -33.8679,
+        "Longitude": 151.2073,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 199,
+        "Open_Weather_City_id": 4163971,
+        "City": "Melbourne",
+        "Country": "US",
+        "Latitude": 28.0836,
+        "Longitude": -80.6081,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 200,
+        "Open_Weather_City_id": 2174003,
+        "City": "Brisbane",
+        "Country": "AU",
+        "Latitude": -27.4679,
+        "Longitude": 153.0281,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 201,
+        "Open_Weather_City_id": 2063523,
+        "City": "Perth",
+        "Country": "AU",
+        "Latitude": -31.9333,
+        "Longitude": 115.8333,
+        "Timezone_offset": 28800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 202,
+        "Open_Weather_City_id": 2078025,
+        "City": "Adelaide",
+        "Country": "AU",
+        "Latitude": -34.9333,
+        "Longitude": 138.6,
+        "Timezone_offset": 34200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 203,
+        "Open_Weather_City_id": 2165087,
+        "City": "Gold Coast",
+        "Country": "AU",
+        "Latitude": -28,
+        "Longitude": 153.4333,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 204,
+        "Open_Weather_City_id": 2155472,
+        "City": "Newcastle",
+        "Country": "AU",
+        "Latitude": -32.9272,
+        "Longitude": 151.7765,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 205,
+        "Open_Weather_City_id": 2172517,
+        "City": "Canberra",
+        "Country": "AU",
+        "Latitude": -35.2835,
+        "Longitude": 149.1281,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 206,
+        "Open_Weather_City_id": 7839394,
+        "City": "Sunshine Coast",
+        "Country": "AU",
+        "Latitude": -26.561,
+        "Longitude": 152.8511,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 207,
+        "Open_Weather_City_id": 2171507,
+        "City": "Wollongong",
+        "Country": "AU",
+        "Latitude": -34.4333,
+        "Longitude": 150.8833,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 208,
+        "Open_Weather_City_id": 2165798,
+        "City": "Geelong",
+        "Country": "AU",
+        "Latitude": -38.1471,
+        "Longitude": 144.3607,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 209,
+        "Open_Weather_City_id": 2163355,
+        "City": "Hobart",
+        "Country": "AU",
+        "Latitude": -42.8794,
+        "Longitude": 147.3294,
+        "Timezone_offset": 36000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 210,
+        "Open_Weather_City_id": 2193733,
+        "City": "Auckland",
+        "Country": "NZ",
+        "Latitude": -36.8667,
+        "Longitude": 174.7667,
+        "Timezone_offset": 43200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 211,
+        "Open_Weather_City_id": 2179537,
+        "City": "Wellington",
+        "Country": "NZ",
+        "Latitude": -41.2866,
+        "Longitude": 174.7756,
+        "Timezone_offset": 43200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 212,
+        "Open_Weather_City_id": 2192362,
+        "City": "Christchurch",
+        "Country": "NZ",
+        "Latitude": -43.5333,
+        "Longitude": 172.6333,
+        "Timezone_offset": 43200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 213,
+        "Open_Weather_City_id": 3448439,
+        "City": "Sao Paulo",
+        "Country": "BR",
+        "Latitude": -23.5475,
+        "Longitude": -46.6361,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 214,
+        "Open_Weather_City_id": 3451190,
+        "City": "Rio de Janeiro",
+        "Country": "BR",
+        "Latitude": -22.9028,
+        "Longitude": -43.2075,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 215,
+        "Open_Weather_City_id": 3469058,
+        "City": "Brasilia",
+        "Country": "BR",
+        "Latitude": -15.7797,
+        "Longitude": -47.9297,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 216,
+        "Open_Weather_City_id": 3585968,
+        "City": "Salvador",
+        "Country": "SV",
+        "Latitude": 13.8333,
+        "Longitude": -88.9167,
+        "Timezone_offset": -21600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 217,
+        "Open_Weather_City_id": 6320062,
+        "City": "Fortaleza",
+        "Country": "BR",
+        "Latitude": -3.7227,
+        "Longitude": -38.5247,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 218,
+        "Open_Weather_City_id": 3470127,
+        "City": "Belo Horizonte",
+        "Country": "BR",
+        "Latitude": -19.9208,
+        "Longitude": -43.9378,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 219,
+        "Open_Weather_City_id": 3663517,
+        "City": "Manaus",
+        "Country": "BR",
+        "Latitude": -3.1019,
+        "Longitude": -60.025,
+        "Timezone_offset": -14400,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 220,
+        "Open_Weather_City_id": 6322752,
+        "City": "Curitiba",
+        "Country": "BR",
+        "Latitude": -25.504,
+        "Longitude": -49.2908,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 221,
+        "Open_Weather_City_id": 3390760,
+        "City": "Recife",
+        "Country": "BR",
+        "Latitude": -8.0539,
+        "Longitude": -34.8811,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 222,
+        "Open_Weather_City_id": 3452925,
+        "City": "Porto Alegre",
+        "Country": "BR",
+        "Latitude": -30.0331,
+        "Longitude": -51.23,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 223,
+        "Open_Weather_City_id": 3435910,
+        "City": "Buenos Aires",
+        "Country": "AR",
+        "Latitude": -34.6132,
+        "Longitude": -58.3772,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 224,
+        "Open_Weather_City_id": 3860259,
+        "City": "Cordoba",
+        "Country": "AR",
+        "Latitude": -31.4135,
+        "Longitude": -64.1811,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 225,
+        "Open_Weather_City_id": 3838583,
+        "City": "Rosario",
+        "Country": "AR",
+        "Latitude": -32.9468,
+        "Longitude": -60.6393,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 226,
+        "Open_Weather_City_id": 3844421,
+        "City": "Mendoza",
+        "Country": "AR",
+        "Latitude": -32.8908,
+        "Longitude": -68.8272,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 227,
+        "Open_Weather_City_id": 3432043,
+        "City": "La Plata",
+        "Country": "AR",
+        "Latitude": -34.9215,
+        "Longitude": -57.9545,
+        "Timezone_offset": -10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 228,
+        "Open_Weather_City_id": 3936456,
+        "City": "Lima",
+        "Country": "PE",
+        "Latitude": -12.0432,
+        "Longitude": -77.0282,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 229,
+        "Open_Weather_City_id": 3947322,
+        "City": "Arequipa",
+        "Country": "PE",
+        "Latitude": -16.3989,
+        "Longitude": -71.535,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 230,
+        "Open_Weather_City_id": 3691175,
+        "City": "Trujillo",
+        "Country": "PE",
+        "Latitude": -8.116,
+        "Longitude": -79.03,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 231,
+        "Open_Weather_City_id": 3698350,
+        "City": "Chiclayo",
+        "Country": "PE",
+        "Latitude": -6.7736,
+        "Longitude": -79.8417,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 232,
+        "Open_Weather_City_id": 3693528,
+        "City": "Piura",
+        "Country": "PE",
+        "Latitude": -5.2,
+        "Longitude": -80.6333,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 233,
+        "Open_Weather_City_id": 3688689,
+        "City": "Bogota",
+        "Country": "CO",
+        "Latitude": 4.6097,
+        "Longitude": -74.0817,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 234,
+        "Open_Weather_City_id": 3674962,
+        "City": "Medellin",
+        "Country": "CO",
+        "Latitude": 6.2518,
+        "Longitude": -75.5636,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 235,
+        "Open_Weather_City_id": 3687925,
+        "City": "Cali",
+        "Country": "CO",
+        "Latitude": 3.4372,
+        "Longitude": -76.5225,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 236,
+        "Open_Weather_City_id": 3689147,
+        "City": "Barranquilla",
+        "Country": "CO",
+        "Latitude": 10.9639,
+        "Longitude": -74.7964,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 237,
+        "Open_Weather_City_id": 3687238,
+        "City": "Cartagena",
+        "Country": "CO",
+        "Latitude": 10.3997,
+        "Longitude": -75.5144,
+        "Timezone_offset": -18000,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 238,
+        "Open_Weather_City_id": 360630,
+        "City": "Cairo",
+        "Country": "EG",
+        "Latitude": 30.0626,
+        "Longitude": 31.2497,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 239,
+        "Open_Weather_City_id": 361058,
+        "City": "Alexandria",
+        "Country": "EG",
+        "Latitude": 31.2156,
+        "Longitude": 29.9553,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 240,
+        "Open_Weather_City_id": 360995,
+        "City": "Giza",
+        "Country": "EG",
+        "Latitude": 30.0081,
+        "Longitude": 31.2109,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 242,
+        "Open_Weather_City_id": 358619,
+        "City": "Port Said",
+        "Country": "EG",
+        "Latitude": 31.2565,
+        "Longitude": 32.2841,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 243,
+        "Open_Weather_City_id": 359796,
+        "City": "Suez",
+        "Country": "EG",
+        "Latitude": 29.9737,
+        "Longitude": 32.5263,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 244,
+        "Open_Weather_City_id": 360502,
+        "City": "Luxor",
+        "Country": "EG",
+        "Latitude": 25.6989,
+        "Longitude": 32.6421,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 245,
+        "Open_Weather_City_id": 2332453,
+        "City": "Lagos",
+        "Country": "NG",
+        "Latitude": 6.5833,
+        "Longitude": 3.75,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 246,
+        "Open_Weather_City_id": 2335204,
+        "City": "Kano",
+        "Country": "NG",
+        "Latitude": 12.0001,
+        "Longitude": 8.5167,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 247,
+        "Open_Weather_City_id": 2339354,
+        "City": "Ibadan",
+        "Country": "NG",
+        "Latitude": 7.3878,
+        "Longitude": 3.8964,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 248,
+        "Open_Weather_City_id": 2335727,
+        "City": "Kaduna",
+        "Country": "NG",
+        "Latitude": 10.5222,
+        "Longitude": 7.4383,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 249,
+        "Open_Weather_City_id": 2324774,
+        "City": "Port Harcourt",
+        "Country": "NG",
+        "Latitude": 4.7774,
+        "Longitude": 7.0134,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 250,
+        "Open_Weather_City_id": 2347283,
+        "City": "Benin City",
+        "Country": "NG",
+        "Latitude": 6.335,
+        "Longitude": 5.6275,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 251,
+        "Open_Weather_City_id": 2331447,
+        "City": "Maiduguri",
+        "Country": "NG",
+        "Latitude": 11.8464,
+        "Longitude": 13.1603,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 252,
+        "Open_Weather_City_id": 2317765,
+        "City": "Zaria",
+        "Country": "NG",
+        "Latitude": 11.1113,
+        "Longitude": 7.7227,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 253,
+        "Open_Weather_City_id": 993800,
+        "City": "Johannesburg",
+        "Country": "ZA",
+        "Latitude": -26.2023,
+        "Longitude": 28.0436,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 254,
+        "Open_Weather_City_id": 3369157,
+        "City": "Cape Town",
+        "Country": "ZA",
+        "Latitude": -33.9258,
+        "Longitude": 18.4232,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 255,
+        "Open_Weather_City_id": 1007311,
+        "City": "Durban",
+        "Country": "ZA",
+        "Latitude": -29.8579,
+        "Longitude": 31.0292,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 256,
+        "Open_Weather_City_id": 964137,
+        "City": "Pretoria",
+        "Country": "ZA",
+        "Latitude": -25.7449,
+        "Longitude": 28.1878,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 257,
+        "Open_Weather_City_id": 964420,
+        "City": "Port Elizabeth",
+        "Country": "ZA",
+        "Latitude": -33.918,
+        "Longitude": 25.5701,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 258,
+        "Open_Weather_City_id": 1018725,
+        "City": "Bloemfontein",
+        "Country": "ZA",
+        "Latitude": -29.1211,
+        "Longitude": 26.214,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 259,
+        "Open_Weather_City_id": 1006984,
+        "City": "East London",
+        "Country": "ZA",
+        "Latitude": -33.0153,
+        "Longitude": 27.9116,
+        "Timezone_offset": 7200,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 260,
+        "Open_Weather_City_id": 2553604,
+        "City": "Casablanca",
+        "Country": "MA",
+        "Latitude": 33.5928,
+        "Longitude": -7.6192,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 261,
+        "Open_Weather_City_id": 2538474,
+        "City": "Rabat",
+        "Country": "MA",
+        "Latitude": 33.9911,
+        "Longitude": -6.8401,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 262,
+        "Open_Weather_City_id": 2548885,
+        "City": "Fes",
+        "Country": "MA",
+        "Latitude": 34.0372,
+        "Longitude": -4.9998,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 263,
+        "Open_Weather_City_id": 2542997,
+        "City": "Marrakesh",
+        "Country": "MA",
+        "Latitude": 31.6315,
+        "Longitude": -8.0083,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 264,
+        "Open_Weather_City_id": 2561668,
+        "City": "Agadir",
+        "Country": "MA",
+        "Latitude": 30.4202,
+        "Longitude": -9.5982,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 265,
+        "Open_Weather_City_id": 184745,
+        "City": "Nairobi",
+        "Country": "KE",
+        "Latitude": -1.2833,
+        "Longitude": 36.8167,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 266,
+        "Open_Weather_City_id": 186301,
+        "City": "Mombasa",
+        "Country": "KE",
+        "Latitude": -4.0547,
+        "Longitude": 39.6636,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 267,
+        "Open_Weather_City_id": 344979,
+        "City": "Addis Ababa",
+        "Country": "ET",
+        "Latitude": 9.025,
+        "Longitude": 38.7469,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 268,
+        "Open_Weather_City_id": 2306104,
+        "City": "Accra",
+        "Country": "GH",
+        "Latitude": 5.556,
+        "Longitude": -0.1969,
+        "Timezone_offset": 0,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 269,
+        "Open_Weather_City_id": 2298890,
+        "City": "Kumasi",
+        "Country": "GH",
+        "Latitude": 6.6885,
+        "Longitude": -1.6244,
+        "Timezone_offset": 0,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 270,
+        "Open_Weather_City_id": 2507480,
+        "City": "Algiers",
+        "Country": "DZ",
+        "Latitude": 36.7525,
+        "Longitude": 3.042,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 271,
+        "Open_Weather_City_id": 2485926,
+        "City": "Oran",
+        "Country": "DZ",
+        "Latitude": 35.6911,
+        "Longitude": -0.6417,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 272,
+        "Open_Weather_City_id": 2501152,
+        "City": "Constantine",
+        "Country": "DZ",
+        "Latitude": 36.365,
+        "Longitude": 6.6147,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 273,
+        "Open_Weather_City_id": 2464461,
+        "City": "Tunis",
+        "Country": "TN",
+        "Latitude": 34,
+        "Longitude": 9,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 274,
+        "Open_Weather_City_id": 2467454,
+        "City": "Sfax",
+        "Country": "TN",
+        "Latitude": 34.7406,
+        "Longitude": 10.7603,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 275,
+        "Open_Weather_City_id": 2464915,
+        "City": "Sousse",
+        "Country": "TN",
+        "Latitude": 35.8254,
+        "Longitude": 10.637,
+        "Timezone_offset": 3600,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 276,
+        "Open_Weather_City_id": 160263,
+        "City": "Dar es Salaam",
+        "Country": "TZ",
+        "Latitude": -6.8235,
+        "Longitude": 39.2695,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    },
+    {
+        "City_id": 277,
+        "Open_Weather_City_id": 152224,
+        "City": "Mwanza",
+        "Country": "TZ",
+        "Latitude": -2.5167,
+        "Longitude": 32.9,
+        "Timezone_offset": 10800,
+        "Date": "2026-05-14"
+    }
+]

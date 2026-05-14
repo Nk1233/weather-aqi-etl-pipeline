@@ -1,0 +1,2212 @@
+[
+    {
+        "Station_id": 10111,
+        "City_id": 1,
+        "Date": "2026-05-14",
+        "Station_name": "Major Dhyan Chand National Stadium, Delhi, Delhi, India",
+        "Latitude": 28.612498,
+        "Longitude": 77.237388,
+        "Station_url": "https://aqicn.org/city/delhi/major-dhyan-chand-national-stadium",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12454,
+        "City_id": 2,
+        "Date": "2026-05-14",
+        "Station_name": "Kurla, Mumbai, India",
+        "Latitude": 19.0863,
+        "Longitude": 72.8888,
+        "Station_url": "https://aqicn.org/city/india/mumbai/kurla",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11270,
+        "City_id": 3,
+        "Date": "2026-05-14",
+        "Station_name": "Hombegowda Nagar, Bengaluru, India",
+        "Latitude": 12.938539,
+        "Longitude": 77.5901,
+        "Station_url": "https://aqicn.org/city/india/bengaluru/hombegowda-nagar",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12746,
+        "City_id": 4,
+        "Date": "2026-05-14",
+        "Station_name": "Ballygunge, Kolkata, India",
+        "Latitude": 22.5367507,
+        "Longitude": 88.3638022,
+        "Station_url": "https://aqicn.org/city/india/kolkata/ballygunge",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13737,
+        "City_id": 5,
+        "Date": "2026-05-14",
+        "Station_name": "Royapuram, Chennai, Chennai, India",
+        "Latitude": 13.1036,
+        "Longitude": 80.2909,
+        "Station_url": "https://aqicn.org/city/chennai//royapuram",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14125,
+        "City_id": 6,
+        "Date": "2026-05-14",
+        "Station_name": "Somajiguda, Hyderabad, India",
+        "Latitude": 17.417094,
+        "Longitude": 78.457437,
+        "Station_url": "https://aqicn.org/city/india/hyderabad/somajiguda",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3760,
+        "City_id": 7,
+        "Date": "2026-05-14",
+        "Station_name": "Shivajinagar, Pune, Pune, India",
+        "Latitude": 18.529603,
+        "Longitude": 73.849586,
+        "Station_url": "https://aqicn.org/city/pune/shivajinagar",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8192,
+        "City_id": 8,
+        "Date": "2026-05-14",
+        "Station_name": "Maninagar, Ahmedabad, India",
+        "Latitude": 23.002657,
+        "Longitude": 72.591912,
+        "Station_url": "https://aqicn.org/city/india/ahmedabad/maninagar",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11291,
+        "City_id": 9,
+        "Date": "2026-05-14",
+        "Station_name": "Police Commissionerate, Jaipur, India",
+        "Latitude": 26.9164092,
+        "Longitude": 75.7994901,
+        "Station_url": "https://aqicn.org/city/india/jaipur/police-commissionerate",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3845,
+        "City_id": 10,
+        "Date": "2026-05-14",
+        "Station_name": "Central School, Lucknow, India",
+        "Latitude": 26.8821003,
+        "Longitude": 80.9302753,
+        "Station_url": "https://aqicn.org/city/india/lucknow/central-school",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13727,
+        "City_id": 11,
+        "Date": "2026-05-14",
+        "Station_name": "FTI Kidwai Nagar, Kanpur, India",
+        "Latitude": 26.428282,
+        "Longitude": 80.327067,
+        "Station_url": "https://aqicn.org/city/india/kanpur/fti-kidwai-nagar",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12444,
+        "City_id": 12,
+        "Date": "2026-05-14",
+        "Station_name": "Opp GPO Civil Lines, Nagpur, India",
+        "Latitude": 21.152875,
+        "Longitude": 79.0517531,
+        "Station_url": "https://aqicn.org/city/india/nagpur/opp-gpo-civil-lines",
+        "Is_active": true
+    },
+    {
+        "Station_id": 9143,
+        "City_id": 14,
+        "Date": "2026-05-14",
+        "Station_name": "Pimpleshwar Mandir, Dombivali, Thane, India",
+        "Latitude": 19.192056,
+        "Longitude": 72.9585188,
+        "Station_url": "https://aqicn.org/city/india/thane/pimpleshwar-mandir--dombivali",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12429,
+        "City_id": 15,
+        "Date": "2026-05-14",
+        "Station_name": "T T Nagar, Bhopal, India",
+        "Latitude": 23.233584,
+        "Longitude": 77.400574,
+        "Station_url": "https://aqicn.org/city/india/bhopal/t-t-nagar",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8674,
+        "City_id": 18,
+        "Date": "2026-05-14",
+        "Station_name": "IGSC Planetarium Complex, Patna, India",
+        "Latitude": 25.6103665,
+        "Longitude": 85.1327137,
+        "Station_url": "https://aqicn.org/city/india/patna/igsc-planetarium-complex",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11899,
+        "City_id": 20,
+        "Date": "2026-05-14",
+        "Station_name": "Sanjay Nagar, Ghaziabad, India",
+        "Latitude": 28.685382,
+        "Longitude": 77.453839,
+        "Station_url": "https://aqicn.org/city/india/ghaziabad/sanjay-nagar",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11272,
+        "City_id": 21,
+        "Date": "2026-05-14",
+        "Station_name": "Punjab Agricultural University, Ludhiana, India",
+        "Latitude": 30.9028,
+        "Longitude": 75.8086,
+        "Station_url": "https://aqicn.org/city/india/ludhiana/punjab-agricultural-university",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8186,
+        "City_id": 22,
+        "Date": "2026-05-14",
+        "Station_name": "Sanjay Palace, Agra, India",
+        "Latitude": 27.19865833,
+        "Longitude": 78.00598056,
+        "Station_url": "https://aqicn.org/city/india/agra/sanjay-palace",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11283,
+        "City_id": 23,
+        "Date": "2026-05-14",
+        "Station_name": "Gangapur Road, Nashik, India",
+        "Latitude": 20.0073285,
+        "Longitude": 73.7762427,
+        "Station_url": "https://aqicn.org/city/india/nashik/gangapur-road",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12813,
+        "City_id": 24,
+        "Date": "2026-05-14",
+        "Station_name": "Sector 11, Faridabad, India",
+        "Latitude": 28.376058,
+        "Longitude": 77.315741,
+        "Station_url": "https://aqicn.org/city/india/faridabad/sector-11",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12430,
+        "City_id": 25,
+        "Date": "2026-05-14",
+        "Station_name": "Pallavpuram Phase 2, Meerut, India",
+        "Latitude": 29.06351,
+        "Longitude": 77.709723,
+        "Station_url": "https://aqicn.org/city/india/meerut/pallavpuram-phase-2",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13690,
+        "City_id": 27,
+        "Date": "2026-05-14",
+        "Station_name": "Maldahiya, Varanasi, India",
+        "Latitude": 25.32393,
+        "Longitude": 82.99687,
+        "Station_url": "https://aqicn.org/city/india/varanasi/maldahiya",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13694,
+        "City_id": 28,
+        "Date": "2026-05-14",
+        "Station_name": "Rajbagh, Srinagar, India",
+        "Latitude": 34.066206,
+        "Longitude": 74.81982,
+        "Station_url": "https://aqicn.org/city/india/srinagar/rajbagh",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14700,
+        "City_id": 29,
+        "Date": "2026-05-14",
+        "Station_name": "Gurdeo Nagar, Aurangabad, India",
+        "Latitude": 24.75746,
+        "Longitude": 84.366208,
+        "Station_url": "https://aqicn.org/city/india/aurangabad/gurdeo-nagar",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11321,
+        "City_id": 31,
+        "Date": "2026-05-14",
+        "Station_name": "Golden Temple, Amritsar, India",
+        "Latitude": 31.62,
+        "Longitude": 74.876512,
+        "Station_url": "https://aqicn.org/city/india/amritsar/golden-temple",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13699,
+        "City_id": 32,
+        "Date": "2026-05-14",
+        "Station_name": "Nagar Nigam, Prayagraj, India",
+        "Latitude": 25.44919916,
+        "Longitude": 81.82735986,
+        "Station_url": "https://aqicn.org/city/india/prayagraj/nagar-nigam",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11847,
+        "City_id": 34,
+        "Date": "2026-05-14",
+        "Station_name": "SIDCO Kurichi, Coimbatore, India",
+        "Latitude": 10.942451,
+        "Longitude": 76.978996,
+        "Station_url": "https://aqicn.org/city/india/coimbatore/sidco-kurichi",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12427,
+        "City_id": 35,
+        "Date": "2026-05-14",
+        "Station_name": "Marhatal, Jabalpur, India",
+        "Latitude": 23.168606,
+        "Longitude": 79.932247,
+        "Station_url": "https://aqicn.org/city/india/jabalpur/marhatal",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12817,
+        "City_id": 36,
+        "Date": "2026-05-14",
+        "Station_name": "City Center, Gwalior, India",
+        "Latitude": 26.203442,
+        "Longitude": 78.193251,
+        "Station_url": "https://aqicn.org/city/india/gwalior/city-center",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11301,
+        "City_id": 37,
+        "Date": "2026-05-14",
+        "Station_name": "PWD Grounds, Vijayawada, India",
+        "Latitude": 16.507014,
+        "Longitude": 80.627767,
+        "Station_url": "https://aqicn.org/city/india/vijayawada/pwd-grounds",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12433,
+        "City_id": 38,
+        "Date": "2026-05-14",
+        "Station_name": "Collectorate, Jodhpur, India",
+        "Latitude": 26.268249,
+        "Longitude": 73.0193853,
+        "Station_url": "https://aqicn.org/city/india/jodhpur/collectorate",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14698,
+        "City_id": 40,
+        "Date": "2026-05-14",
+        "Station_name": "Doon University, Dehradun, India",
+        "Latitude": 30.269444,
+        "Longitude": 78.044167,
+        "Station_url": "https://aqicn.org/city/india/dehradun/doon-university",
+        "Is_active": true
+    },
+    {
+        "Station_id": 2084,
+        "City_id": 41,
+        "Date": "2026-05-14",
+        "Station_name": "Kera, Kochi, Kochi Prefecture, Japan (\u4ecb\u826f\u9ad8\u77e5\u5e02)",
+        "Latitude": 33.5489621,
+        "Longitude": 133.5987948,
+        "Station_url": "https://aqicn.org/city/japan/kochishi/kera",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5724,
+        "City_id": 42,
+        "Date": "2026-05-14",
+        "Station_name": "London",
+        "Latitude": 51.5073509,
+        "Longitude": -0.1277583,
+        "Station_url": "https://aqicn.org/city/london",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5722,
+        "City_id": 43,
+        "Date": "2026-05-14",
+        "Station_name": "Paris",
+        "Latitude": 48.856614,
+        "Longitude": 2.3522219,
+        "Station_url": "https://aqicn.org/city/paris",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6132,
+        "City_id": 44,
+        "Date": "2026-05-14",
+        "Station_name": "Berlin, Germany",
+        "Latitude": 52.5200066,
+        "Longitude": 13.404954,
+        "Station_url": "https://aqicn.org/city/germany/berlin",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5725,
+        "City_id": 45,
+        "Date": "2026-05-14",
+        "Station_name": "Madrid",
+        "Latitude": 40.4167754,
+        "Longitude": -3.7037902,
+        "Station_url": "https://aqicn.org/city/madrid",
+        "Is_active": true
+    },
+    {
+        "Station_id": 9352,
+        "City_id": 46,
+        "Date": "2026-05-14",
+        "Station_name": "Arenula, Roma, Lazio, Italy",
+        "Latitude": 41.8932669,
+        "Longitude": 12.4753855,
+        "Station_url": "https://aqicn.org/city/italy/lazio/roma/arenula",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5771,
+        "City_id": 47,
+        "Date": "2026-05-14",
+        "Station_name": "Amsterdam",
+        "Latitude": 52.3702157,
+        "Longitude": 4.8951679,
+        "Station_url": "https://aqicn.org/city/amsterdam",
+        "Is_active": true
+    },
+    {
+        "Station_id": 2860,
+        "City_id": 48,
+        "Date": "2026-05-14",
+        "Station_name": "Ecke Taborstra\u00dfe - Glockengasse, Austria",
+        "Latitude": 48.2167394444444,
+        "Longitude": 16.3809180555556,
+        "Station_url": "https://aqicn.org/city/austria/ecke-taborstrasse-glockengasse",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10011,
+        "City_id": 49,
+        "Date": "2026-05-14",
+        "Station_name": "Stockholm Sveav\u00e4gen 59 Gata, Sweden",
+        "Latitude": 59.3408269502832,
+        "Longitude": 18.0582536812784,
+        "Station_url": "https://aqicn.org/city/sweden/stockholm-sveavagen-59-gata",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3330,
+        "City_id": 50,
+        "Date": "2026-05-14",
+        "Station_name": "Spirid, Moscow, Moscow, Russia (\u0421\u043f\u0438\u0440\u0438\u0434\u043e\u043d\u043e\u0432\u043a\u0430, \u041c\u043e\u0441\u043a\u0432\u0430)",
+        "Latitude": 55.759354,
+        "Longitude": 37.595584,
+        "Station_url": "https://aqicn.org/city/moscow/spirid",
+        "Is_active": true
+    },
+    {
+        "Station_id": 4143,
+        "City_id": 51,
+        "Date": "2026-05-14",
+        "Station_name": "Istanbul (Aksaray), Turkey",
+        "Latitude": 41.014722,
+        "Longitude": 28.954722,
+        "Station_url": "https://aqicn.org/city/turkey/marmara/istanbul/aksaray",
+        "Is_active": true
+    },
+    {
+        "Station_id": 9118,
+        "City_id": 52,
+        "Date": "2026-05-14",
+        "Station_name": "Milano Senato, Lombardia, Italy",
+        "Latitude": 45.470501,
+        "Longitude": 9.19746075,
+        "Station_url": "https://aqicn.org/city/italy/lombardia/milano-senato",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6669,
+        "City_id": 53,
+        "Date": "2026-05-14",
+        "Station_name": "Barcelona (Eixample), Catalunya, Spain",
+        "Latitude": 41.385343283956,
+        "Longitude": 2.1538219595817,
+        "Station_url": "https://aqicn.org/city/spain/catalunya/barcelona-eixample",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6037,
+        "City_id": 54,
+        "Date": "2026-05-14",
+        "Station_name": "Munich",
+        "Latitude": 48.1351253,
+        "Longitude": 11.5819806,
+        "Station_url": "https://aqicn.org/city/munich",
+        "Is_active": true
+    },
+    {
+        "Station_id": 2703,
+        "City_id": 55,
+        "Date": "2026-05-14",
+        "Station_name": "Pha8-Karlin, Prague, Czech Republic",
+        "Latitude": 50.094238,
+        "Longitude": 14.442049,
+        "Station_url": "https://aqicn.org/city/czechrepublic/prague/pha8-karlin",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5765,
+        "City_id": 56,
+        "Date": "2026-05-14",
+        "Station_name": "Brussels",
+        "Latitude": 50.8503396,
+        "Longitude": 4.3517103,
+        "Station_url": "https://aqicn.org/city/brussels",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3399,
+        "City_id": 57,
+        "Date": "2026-05-14",
+        "Station_name": "Marsza\u0142kowska, Warszawa, Mazowieckie, Poland",
+        "Latitude": 52.225171,
+        "Longitude": 21.014783,
+        "Station_url": "https://aqicn.org/city/poland/mazowieckie/warszawa/marszalkowska",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3371,
+        "City_id": 58,
+        "Date": "2026-05-14",
+        "Station_name": "Budapest Sz\u00e9na t\u00e9r, Budapest, Hungary",
+        "Latitude": 47.508605,
+        "Longitude": 19.02764,
+        "Station_url": "https://aqicn.org/city/hungary/budapest/bp2--szena",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5769,
+        "City_id": 59,
+        "Date": "2026-05-14",
+        "Station_name": "Zurich",
+        "Latitude": 47.3768866,
+        "Longitude": 8.541694,
+        "Station_url": "https://aqicn.org/city/zurich",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3317,
+        "City_id": 60,
+        "Date": "2026-05-14",
+        "Station_name": "H.C.Andersens Boulevard, Copenhagen, Denmark",
+        "Latitude": 55.6750137,
+        "Longitude": 12.5693995,
+        "Station_url": "https://aqicn.org/city/denmark/copenhagen/h.c.andersens-boulevard",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14666,
+        "City_id": 61,
+        "Date": "2026-05-14",
+        "Station_name": "Spikersuppa, Oslo, Norway",
+        "Latitude": 59.914051,
+        "Longitude": 10.735978,
+        "Station_url": "https://aqicn.org/city/norway/norway/oslo/spikersuppa",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5717,
+        "City_id": 62,
+        "Date": "2026-05-14",
+        "Station_name": "Helsinki",
+        "Latitude": 60.1733244,
+        "Longitude": 24.9410248,
+        "Station_url": "https://aqicn.org/city/helsinki",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14648,
+        "City_id": 63,
+        "Date": "2026-05-14",
+        "Station_name": "Pearse Street, Dublin 2, Ireland",
+        "Latitude": 53.345053,
+        "Longitude": -6.254344,
+        "Station_url": "https://aqicn.org/city/ireland/pearse-street--dublin-2",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8379,
+        "City_id": 64,
+        "Date": "2026-05-14",
+        "Station_name": "Entrecampos, Lisboa, Portugal",
+        "Latitude": 38.748611111111,
+        "Longitude": -9.1488888888889,
+        "Station_url": "https://aqicn.org/city/portugal/lisboa/entrecampos",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12414,
+        "City_id": 65,
+        "Date": "2026-05-14",
+        "Station_name": "Aristotelous, Greece",
+        "Latitude": 37.988028,
+        "Longitude": 23.727628,
+        "Station_url": "https://aqicn.org/city/greece/aristotelous",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3176,
+        "City_id": 66,
+        "Date": "2026-05-14",
+        "Station_name": "Edinburgh St Leonards, United Kingdom",
+        "Latitude": 55.945589,
+        "Longitude": -3.182186,
+        "Station_url": "https://aqicn.org/city/united-kingdom/edinburgh-st-leonards",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3177,
+        "City_id": 67,
+        "Date": "2026-05-14",
+        "Station_name": "Glasgow Kerbside, United Kingdom",
+        "Latitude": 55.85917,
+        "Longitude": -4.258889,
+        "Station_url": "https://aqicn.org/city/united-kingdom/glasgow-kerbside",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3196,
+        "City_id": 68,
+        "Date": "2026-05-14",
+        "Station_name": "Manchester Piccadilly, United Kingdom",
+        "Latitude": 53.48152,
+        "Longitude": -2.237881,
+        "Station_url": "https://aqicn.org/city/united-kingdom/manchester-piccadilly",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5723,
+        "City_id": 69,
+        "Date": "2026-05-14",
+        "Station_name": "Birmingham",
+        "Latitude": 52.486243,
+        "Longitude": -1.890401,
+        "Station_url": "https://aqicn.org/city/birmingham",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3221,
+        "City_id": 70,
+        "Date": "2026-05-14",
+        "Station_name": "Wirral Tranmere, United Kingdom",
+        "Latitude": 53.37287,
+        "Longitude": -3.022722,
+        "Station_url": "https://aqicn.org/city/united-kingdom/wirral-tranmere",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3184,
+        "City_id": 71,
+        "Date": "2026-05-14",
+        "Station_name": "Leeds Centre, United Kingdom",
+        "Latitude": 53.80378,
+        "Longitude": -1.546472,
+        "Station_url": "https://aqicn.org/city/united-kingdom/leeds-centre",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10855,
+        "City_id": 72,
+        "Date": "2026-05-14",
+        "Station_name": "Frankfurt-Ost, Germany",
+        "Latitude": 50.126666666667,
+        "Longitude": 8.7483333333333,
+        "Station_url": "https://aqicn.org/city/germany/hesse/frankfurt-ost",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10833,
+        "City_id": 73,
+        "Date": "2026-05-14",
+        "Station_name": "Habichtstra\u00dfe, Hamburg, Germany",
+        "Latitude": 53.59235,
+        "Longitude": 10.053724,
+        "Station_url": "https://aqicn.org/city/germany/hamburg/habichtstrasse",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6101,
+        "City_id": 74,
+        "Date": "2026-05-14",
+        "Station_name": "K\u00f6ln-Rodenkirchen, Germany",
+        "Latitude": 50.889871,
+        "Longitude": 6.985074,
+        "Station_url": "https://aqicn.org/city/germany/nrw/koln-rodenkirchen",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11226,
+        "City_id": 75,
+        "Date": "2026-05-14",
+        "Station_name": "Stuttgart Arnulf-Klett-Platz, Germany",
+        "Latitude": 48.783150000042,
+        "Longitude": 9.1807305558523,
+        "Station_url": "https://aqicn.org/city/germany/badenwurttemberg/stuttgart-arnulf-klett-platz",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6087,
+        "City_id": 76,
+        "Date": "2026-05-14",
+        "Station_name": "D\u00fcsseldorf-L\u00f6rick, Germany",
+        "Latitude": 51.249214,
+        "Longitude": 6.732353,
+        "Station_url": "https://aqicn.org/city/germany/nrw/dusseldorf-lorick",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10896,
+        "City_id": 77,
+        "Date": "2026-05-14",
+        "Station_name": "Leipzig-West, Germany",
+        "Latitude": 51.3396955,
+        "Longitude": 12.3730747,
+        "Station_url": "https://aqicn.org/city/germany/sachsen/leipzig-west",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10891,
+        "City_id": 78,
+        "Date": "2026-05-14",
+        "Station_name": "Dresden-Winckelmannstr., Germany",
+        "Latitude": 51.037279,
+        "Longitude": 13.7303687,
+        "Station_url": "https://aqicn.org/city/germany/sachsen/dresden-winckelmannstr.",
+        "Is_active": true
+    },
+    {
+        "Station_id": 4995,
+        "City_id": 79,
+        "Date": "2026-05-14",
+        "Station_name": "Bouteillerie, Nantes, Loire, France",
+        "Latitude": 47.2222,
+        "Longitude": -1.53743,
+        "Station_url": "https://aqicn.org/city/france/loire/nantes/bouteillerie",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10050,
+        "City_id": 80,
+        "Date": "2026-05-14",
+        "Station_name": "Lyon Trafic Jaur\u00e8s, France",
+        "Latitude": 45.74972628,
+        "Longitude": 4.84439392,
+        "Station_url": "https://aqicn.org/city/france/rhonealpes/rhone/lyon-trafic-jaures",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6882,
+        "City_id": 81,
+        "Date": "2026-05-14",
+        "Station_name": "Marseille 5 Avenues, PACA, France",
+        "Latitude": 43.305287,
+        "Longitude": 5.394716,
+        "Station_url": "https://aqicn.org/city/france/paca/marseille-5-avenues",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3828,
+        "City_id": 82,
+        "Date": "2026-05-14",
+        "Station_name": "Toulouse Berthelot, France",
+        "Latitude": 43.5873309,
+        "Longitude": 1.444026232,
+        "Station_url": "https://aqicn.org/city/france/midipyrenees/toulouse-berthelot",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6886,
+        "City_id": 83,
+        "Date": "2026-05-14",
+        "Station_name": "Nice Arson, PACA, France",
+        "Latitude": 43.702075,
+        "Longitude": 7.286256,
+        "Station_url": "https://aqicn.org/city/france/paca/nice-arson",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3821,
+        "City_id": 84,
+        "Date": "2026-05-14",
+        "Station_name": "Clemenceau, Strasbourg, Alsace, France",
+        "Latitude": 48.59043,
+        "Longitude": 7.744983,
+        "Station_url": "https://aqicn.org/city/france/alsace/strasbourg/clemenceau",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5054,
+        "City_id": 85,
+        "Date": "2026-05-14",
+        "Station_name": "Grand Parc, Bordeaux, Aquitaine, France",
+        "Latitude": 44.858413102209,
+        "Longitude": -0.584282227097,
+        "Station_url": "https://aqicn.org/city/france/aquitaine/bordeaux/grand-parc",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10084,
+        "City_id": 86,
+        "Date": "2026-05-14",
+        "Station_name": "Lille Leeds, Nord-Pas-de-Calais, France",
+        "Latitude": 50.640794444443976,
+        "Longitude": 3.074772222222191,
+        "Station_url": "https://aqicn.org/city/france/nord-pas-de-calais/lille-leeds",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14703,
+        "City_id": 87,
+        "Date": "2026-05-14",
+        "Station_name": "Thabor, Rennes, France",
+        "Latitude": 48.11521,
+        "Longitude": -1.673088,
+        "Station_url": "https://aqicn.org/city/france/bretagne/rennes/thabor",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3061,
+        "City_id": 88,
+        "Date": "2026-05-14",
+        "Station_name": "Gaillard, France",
+        "Latitude": 46.193654,
+        "Longitude": 6.214178,
+        "Station_url": "https://aqicn.org/city/france/rhonealpes/haute-savoie/gaillard",
+        "Is_active": true
+    },
+    {
+        "Station_id": 2688,
+        "City_id": 89,
+        "Date": "2026-05-14",
+        "Station_name": "Lausanne Cesar Roux, Switzerland",
+        "Latitude": 46.521944444444,
+        "Longitude": 6.6397222222222,
+        "Station_url": "https://aqicn.org/city/switzerland/lausanne-cesar-roux",
+        "Is_active": true
+    },
+    {
+        "Station_id": 2690,
+        "City_id": 90,
+        "Date": "2026-05-14",
+        "Station_name": "Basel Binningen, Switzerland",
+        "Latitude": 47.541111111111,
+        "Longitude": 7.5833333333333,
+        "Station_url": "https://aqicn.org/city/switzerland/basel-binningen",
+        "Is_active": true
+    },
+    {
+        "Station_id": 2687,
+        "City_id": 91,
+        "Date": "2026-05-14",
+        "Station_name": "Bern Bollwerk, Switzerland",
+        "Latitude": 46.951111111111,
+        "Longitude": 7.4408333333333,
+        "Station_url": "https://aqicn.org/city/switzerland/bern-bollwerk",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3309,
+        "City_id": 92,
+        "Date": "2026-05-14",
+        "Station_name": "New York",
+        "Latitude": 40.7127837,
+        "Longitude": -74.0059413,
+        "Station_url": "https://aqicn.org/city/newyork",
+        "Is_active": true
+    },
+    {
+        "Station_id": 243,
+        "City_id": 93,
+        "Date": "2026-05-14",
+        "Station_name": "Los Angeles-North Main Street",
+        "Latitude": 34.06653,
+        "Longitude": -118.22676,
+        "Station_url": "https://aqicn.org/city/losangeles/los-angeles-north-main-street",
+        "Is_active": true
+    },
+    {
+        "Station_id": 7397,
+        "City_id": 94,
+        "Date": "2026-05-14",
+        "Station_name": "Chi_sp, Illinois, USA",
+        "Latitude": 41.9136,
+        "Longitude": -87.7239,
+        "Station_url": "https://aqicn.org/city/usa/illinois/chi_sp",
+        "Is_active": true
+    },
+    {
+        "Station_id": 178,
+        "City_id": 95,
+        "Date": "2026-05-14",
+        "Station_name": "Park Place, Houston, Texas",
+        "Latitude": 29.686389,
+        "Longitude": -95.294722,
+        "Station_url": "https://aqicn.org/city/texas/houston/park-place",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5914,
+        "City_id": 96,
+        "Date": "2026-05-14",
+        "Station_name": "Toronto",
+        "Latitude": 43.653226,
+        "Longitude": -79.3831843,
+        "Station_url": "https://aqicn.org/city/toronto",
+        "Is_active": true
+    },
+    {
+        "Station_id": 404,
+        "City_id": 97,
+        "Date": "2026-05-14",
+        "Station_name": "Merced, M\u00e9xico, Mexico",
+        "Latitude": 19.42461,
+        "Longitude": -99.119594,
+        "Station_url": "https://aqicn.org/city/mexico/mexico/merced",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3900,
+        "City_id": 98,
+        "Date": "2026-05-14",
+        "Station_name": "San Francisco-Arkansas Street, San Francisco, California",
+        "Latitude": 37.76595,
+        "Longitude": -122.39902,
+        "Station_url": "https://aqicn.org/city/california/san-francisco/san-francisco-arkansas-street",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5855,
+        "City_id": 99,
+        "Date": "2026-05-14",
+        "Station_name": "10th and Weller, Seattle, Washington, USA",
+        "Latitude": 47.597222,
+        "Longitude": -122.319722,
+        "Station_url": "https://aqicn.org/city/usa/washington/seattle/10th-and-weller",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6298,
+        "City_id": 100,
+        "Date": "2026-05-14",
+        "Station_name": "Miami Fire Station - Station #5, Miami-Dade, Florida, USA",
+        "Latitude": 25.794722222222,
+        "Longitude": -80.215555555556,
+        "Station_url": "https://aqicn.org/city/usa/florida/miami-dade/miami-fire-station-station--5",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5883,
+        "City_id": 101,
+        "Date": "2026-05-14",
+        "Station_name": "Boston",
+        "Latitude": 42.3584308,
+        "Longitude": -71.0597732,
+        "Station_url": "https://aqicn.org/city/boston",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14111,
+        "City_id": 102,
+        "Date": "2026-05-14",
+        "Station_name": "Vancouver Clark Drive, British Comlumbia, Canada",
+        "Latitude": 49.26029,
+        "Longitude": -123.077811,
+        "Station_url": "https://aqicn.org/city/british-comlumbia/vancouver-clark-drive",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5922,
+        "City_id": 103,
+        "Date": "2026-05-14",
+        "Station_name": "Montreal",
+        "Latitude": 45.5086699,
+        "Longitude": -73.5539925,
+        "Station_url": "https://aqicn.org/city/montreal",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5944,
+        "City_id": 104,
+        "Date": "2026-05-14",
+        "Station_name": "South Phoenix, Maricopa, USA",
+        "Latitude": 33.403055555556,
+        "Longitude": -112.07527777778,
+        "Station_url": "https://aqicn.org/city/usa/maricopa/south-phoenix",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3565,
+        "City_id": 105,
+        "Date": "2026-05-14",
+        "Station_name": "South Camden, NewJersey, USA",
+        "Latitude": 39.923969,
+        "Longitude": -75.122317,
+        "Station_url": "https://aqicn.org/city/usa/newjersey/south-camden",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13063,
+        "City_id": 106,
+        "Date": "2026-05-14",
+        "Station_name": "San Diego - Sherman Elementary School, San Diego, California",
+        "Latitude": 32.7101770008584,
+        "Longitude": -117.142665,
+        "Station_url": "https://aqicn.org/city/california/san-diego/san-diego-sherman-elementary-school",
+        "Is_active": true
+    },
+    {
+        "Station_id": 204,
+        "City_id": 107,
+        "Date": "2026-05-14",
+        "Station_name": "Dallas Hinton, fort Worth, Dallas, Texas",
+        "Latitude": 32.8200608,
+        "Longitude": -96.8601165,
+        "Station_url": "https://aqicn.org/city/texas/dallas/fort-worth/dallas-hinton",
+        "Is_active": true
+    },
+    {
+        "Station_id": 218,
+        "City_id": 108,
+        "Date": "2026-05-14",
+        "Station_name": "Austin Northwest, Austin, Texas",
+        "Latitude": 30.3544356,
+        "Longitude": -97.7602554,
+        "Station_url": "https://aqicn.org/city/texas/austin/austin-northwest",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6314,
+        "City_id": 109,
+        "Date": "2026-05-14",
+        "Station_name": "CAMP, Colorado, USA",
+        "Latitude": 39.751184,
+        "Longitude": -104.987625,
+        "Station_url": "https://aqicn.org/city/usa/colorado/camp",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5336,
+        "City_id": 110,
+        "Date": "2026-05-14",
+        "Station_name": "Aurora Hills Visitor Center, Northern Virginia, USA",
+        "Latitude": 38.8577,
+        "Longitude": -77.05922,
+        "Station_url": "https://aqicn.org/city/usa/virginia/aurora-hills-visitor-center",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13288,
+        "City_id": 111,
+        "Date": "2026-05-14",
+        "Station_name": "United Ave., Georgia, USA",
+        "Latitude": 33.720192,
+        "Longitude": -84.357056,
+        "Station_url": "https://aqicn.org/city/georgia/united-ave.",
+        "Is_active": true
+    },
+    {
+        "Station_id": 86,
+        "City_id": 112,
+        "Date": "2026-05-14",
+        "Station_name": "Portland, Oregon, USA",
+        "Latitude": 45.496641,
+        "Longitude": -122.602877,
+        "Station_url": "https://aqicn.org/city/usa/oregon/portland",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5278,
+        "City_id": 113,
+        "Date": "2026-05-14",
+        "Station_name": "JD Smith, Clark County, USA",
+        "Latitude": 36.19126,
+        "Longitude": -115.12293,
+        "Station_url": "https://aqicn.org/city/usa/clark-county/jd-smith",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5915,
+        "City_id": 114,
+        "Date": "2026-05-14",
+        "Station_name": "Windsor",
+        "Latitude": 42.3149367,
+        "Longitude": -83.0363633,
+        "Station_url": "https://aqicn.org/city/windsor",
+        "Is_active": true
+    },
+    {
+        "Station_id": 7496,
+        "City_id": 115,
+        "Date": "2026-05-14",
+        "Station_name": "Lockland, Tennessee, USA",
+        "Latitude": 36.1767,
+        "Longitude": -86.7386,
+        "Station_url": "https://aqicn.org/city/usa/tennessee/lockland",
+        "Is_active": true
+    },
+    {
+        "Station_id": 7418,
+        "City_id": 116,
+        "Date": "2026-05-14",
+        "Station_name": "Oldtown, Maryland, USA",
+        "Latitude": 39.2981,
+        "Longitude": -76.604698,
+        "Station_url": "https://aqicn.org/city/usa/maryland/oldtown",
+        "Is_active": true
+    },
+    {
+        "Station_id": 186,
+        "City_id": 117,
+        "Date": "2026-05-14",
+        "Station_name": "CPS Pecan Valley, San Antonio, Texas",
+        "Latitude": 29.4072945,
+        "Longitude": -98.431251,
+        "Station_url": "https://aqicn.org/city/texas/san-antonio/cps-pecan-valley",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3902,
+        "City_id": 118,
+        "Date": "2026-05-14",
+        "Station_name": "San Jose - Jackson St, Santa Clara, California",
+        "Latitude": 37.34849,
+        "Longitude": -121.89494,
+        "Station_url": "https://aqicn.org/city/california/santa-clara/san-jose-jackson-st",
+        "Is_active": true
+    },
+    {
+        "Station_id": 7457,
+        "City_id": 119,
+        "Date": "2026-05-14",
+        "Station_name": "Columbus - Fairgrounds, Ohio, USA",
+        "Latitude": 40.002734,
+        "Longitude": -82.994404,
+        "Station_url": "https://aqicn.org/city/usa/ohio/columbus-fairgrounds",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13139,
+        "City_id": 120,
+        "Date": "2026-05-14",
+        "Station_name": "Friendship Park, North Carolina, USA",
+        "Latitude": 35.281791,
+        "Longitude": -80.851473,
+        "Station_url": "https://aqicn.org/city/usa/north-carolina/friendship-park",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8699,
+        "City_id": 121,
+        "Date": "2026-05-14",
+        "Station_name": "Indpls - I-70 E, Indiana, USA",
+        "Latitude": 39.787933,
+        "Longitude": -86.13088,
+        "Station_url": "https://aqicn.org/city/usa/indiana/indpls-i-70-e",
+        "Is_active": true
+    },
+    {
+        "Station_id": 185,
+        "City_id": 122,
+        "Date": "2026-05-14",
+        "Station_name": "Haws Athletic Center, fort Worth, Dallas, Texas",
+        "Latitude": 32.7591432,
+        "Longitude": -97.3423337,
+        "Station_url": "https://aqicn.org/city/texas/dallas/fort-worth/haws-athletic-center",
+        "Is_active": true
+    },
+    {
+        "Station_id": 9628,
+        "City_id": 123,
+        "Date": "2026-05-14",
+        "Station_name": "Kooker Park, Jacksonville, Duval, Florida, USA",
+        "Latitude": 30.356388888889,
+        "Longitude": -81.635277777778,
+        "Station_url": "https://aqicn.org/city/usa/florida/duval/kooker-park--jacksonville",
+        "Is_active": true
+    },
+    {
+        "Station_id": 208,
+        "City_id": 124,
+        "Date": "2026-05-14",
+        "Station_name": "El Paso Chamizal, El Paso, Texas",
+        "Latitude": 31.7656976,
+        "Longitude": -106.4552204,
+        "Station_url": "https://aqicn.org/city/texas/el-paso/el-paso-chamizal",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10178,
+        "City_id": 126,
+        "Date": "2026-05-14",
+        "Station_name": "Near Road OKC, Oklahoma, USA",
+        "Latitude": 35.502968,
+        "Longitude": -97.577674,
+        "Station_url": "https://aqicn.org/city/usa/oklahoma/near-road-okc",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12843,
+        "City_id": 127,
+        "Date": "2026-05-14",
+        "Station_name": "Jeffersonville - Bates-Bowyer Av, Indiana, USA",
+        "Latitude": 38.288191,
+        "Longitude": -85.741337,
+        "Station_url": "https://aqicn.org/city/usa/indiana/jeffersonville-bates-bowyer-av",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5934,
+        "City_id": 128,
+        "Date": "2026-05-14",
+        "Station_name": "Milw 16th  St, Wisconsin, USA",
+        "Latitude": 43.01724,
+        "Longitude": -87.93369,
+        "Station_url": "https://aqicn.org/city/usa/wisconsin/milw-16th--st",
+        "Is_active": true
+    },
+    {
+        "Station_id": 9624,
+        "City_id": 129,
+        "Date": "2026-05-14",
+        "Station_name": "South Valley, New Mexico, USA",
+        "Latitude": 35.0186,
+        "Longitude": -106.651901,
+        "Station_url": "https://aqicn.org/city/usa/new-mexico/south-valley",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5960,
+        "City_id": 130,
+        "Date": "2026-05-14",
+        "Station_name": "Geronimo, Pima County, USA",
+        "Latitude": 32.251846,
+        "Longitude": -110.965296,
+        "Station_url": "https://aqicn.org/city/usa/pima-county/geronimo",
+        "Is_active": true
+    },
+    {
+        "Station_id": 304,
+        "City_id": 131,
+        "Date": "2026-05-14",
+        "Station_name": "Sacramento - 1309 T Street, Sacramento, California",
+        "Latitude": 38.56844,
+        "Longitude": -121.49311,
+        "Station_url": "https://aqicn.org/city/california/sacramento/sacramento-1309-t-street",
+        "Is_active": true
+    },
+    {
+        "Station_id": 7357,
+        "City_id": 132,
+        "Date": "2026-05-14",
+        "Station_name": "Troost, Missouri, USA",
+        "Latitude": 39.10465,
+        "Longitude": -94.57055,
+        "Station_url": "https://aqicn.org/city/usa/missouri/troost",
+        "Is_active": true
+    },
+    {
+        "Station_id": 7363,
+        "City_id": 133,
+        "Date": "2026-05-14",
+        "Station_name": "Ncore, Nebraska, USA",
+        "Latitude": 41.2474,
+        "Longitude": -95.9731,
+        "Station_url": "https://aqicn.org/city/usa/nebraska/ncore",
+        "Is_active": true
+    },
+    {
+        "Station_id": 7668,
+        "City_id": 134,
+        "Date": "2026-05-14",
+        "Station_name": "Millbrook NCore, North Carolina, USA",
+        "Latitude": 35.856098,
+        "Longitude": -78.574203,
+        "Station_url": "https://aqicn.org/city/usa/north-carolina/millbrook-ncore",
+        "Is_active": true
+    },
+    {
+        "Station_id": 7462,
+        "City_id": 135,
+        "Date": "2026-05-14",
+        "Station_name": "G.T.Craig, Ohio, USA",
+        "Latitude": 41.492191,
+        "Longitude": -81.678552,
+        "Station_url": "https://aqicn.org/city/usa/ohio/g.t.craig",
+        "Is_active": true
+    },
+    {
+        "Station_id": 9519,
+        "City_id": 136,
+        "Date": "2026-05-14",
+        "Station_name": "Cincinnati Near Road, Ohio, USA",
+        "Latitude": 39.146025,
+        "Longitude": -84.538375,
+        "Station_url": "https://aqicn.org/city/usa/ohio/cincinnati-near-road",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10172,
+        "City_id": 137,
+        "Date": "2026-05-14",
+        "Station_name": "Parkway East, Allegheny, Pennsylvania, USA",
+        "Latitude": 40.4045579,
+        "Longitude": -79.9102686,
+        "Station_url": "https://aqicn.org/city/usa/pennsylvania/allegheny/parkway-east",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5573,
+        "City_id": 138,
+        "Date": "2026-05-14",
+        "Station_name": "Meguro (\u76ee\u9ed2)",
+        "Latitude": 35.6414629,
+        "Longitude": 139.6981712,
+        "Station_url": "https://aqicn.org/city/meguro",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5538,
+        "City_id": 139,
+        "Date": "2026-05-14",
+        "Station_name": "Yokohama (\u6a2a\u6d5c)",
+        "Latitude": 35.4437078,
+        "Longitude": 139.6380256,
+        "Station_url": "https://aqicn.org/city/yokohama",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5543,
+        "City_id": 140,
+        "Date": "2026-05-14",
+        "Station_name": "Osaka (\u5927\u962a)",
+        "Latitude": 34.6937378,
+        "Longitude": 135.5021651,
+        "Station_url": "https://aqicn.org/city/osaka",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5540,
+        "City_id": 141,
+        "Date": "2026-05-14",
+        "Station_name": "Nagoya (\u540d\u53e4\u5c4b)",
+        "Latitude": 35.1814464,
+        "Longitude": 136.906398,
+        "Station_url": "https://aqicn.org/city/nagoya",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5536,
+        "City_id": 142,
+        "Date": "2026-05-14",
+        "Station_name": "Sapporo (\u672d\u5e4c)",
+        "Latitude": 43.0620958,
+        "Longitude": 141.3543763,
+        "Station_url": "https://aqicn.org/city/sapporo",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5551,
+        "City_id": 143,
+        "Date": "2026-05-14",
+        "Station_name": "Fukuoka (\u798f\u5ca1)",
+        "Latitude": 33.5903547,
+        "Longitude": 130.4017155,
+        "Station_url": "https://aqicn.org/city/fukuoka",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5544,
+        "City_id": 144,
+        "Date": "2026-05-14",
+        "Station_name": "Kobe (\u795e\u6238)",
+        "Latitude": 34.690083,
+        "Longitude": 135.1955112,
+        "Station_url": "https://aqicn.org/city/kobe",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5542,
+        "City_id": 145,
+        "Date": "2026-05-14",
+        "Station_name": "Kyoto (\u4eac\u90fd)",
+        "Latitude": 35.0116363,
+        "Longitude": 135.7680294,
+        "Station_url": "https://aqicn.org/city/kyoto",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5580,
+        "City_id": 146,
+        "Date": "2026-05-14",
+        "Station_name": "Kawasaki (\u5ddd\u5d0e)",
+        "Latitude": 35.5309058,
+        "Longitude": 139.7030511,
+        "Station_url": "https://aqicn.org/city/kawasaki",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5556,
+        "City_id": 147,
+        "Date": "2026-05-14",
+        "Station_name": "Saitama (\u57fc\u7389)",
+        "Latitude": 35.8617292,
+        "Longitude": 139.6454822,
+        "Station_url": "https://aqicn.org/city/saitama",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1451,
+        "City_id": 148,
+        "Date": "2026-05-14",
+        "Station_name": "Beijing (\u5317\u4eac)",
+        "Latitude": 39.954592,
+        "Longitude": 116.468117,
+        "Station_url": "https://aqicn.org/city/beijing",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1437,
+        "City_id": 149,
+        "Date": "2026-05-14",
+        "Station_name": "Shanghai (\u4e0a\u6d77)",
+        "Latitude": 31.2047372,
+        "Longitude": 121.4489017,
+        "Station_url": "https://aqicn.org/city/shanghai",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1449,
+        "City_id": 150,
+        "Date": "2026-05-14",
+        "Station_name": "Guangzhou (\u5e7f\u5dde)",
+        "Latitude": 23.141191,
+        "Longitude": 113.258374,
+        "Station_url": "https://aqicn.org/city/guangzhou",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1539,
+        "City_id": 151,
+        "Date": "2026-05-14",
+        "Station_name": "Shenzhen (\u6df1\u5733)",
+        "Latitude": 22.543099,
+        "Longitude": 114.057868,
+        "Station_url": "https://aqicn.org/city/shenzhen",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1450,
+        "City_id": 152,
+        "Date": "2026-05-14",
+        "Station_name": "Chengdu (\u6210\u90fd)",
+        "Latitude": 30.6250145,
+        "Longitude": 104.0670559,
+        "Station_url": "https://aqicn.org/city/chengdu",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1439,
+        "City_id": 153,
+        "Date": "2026-05-14",
+        "Station_name": "Hangzhou (\u676d\u5dde)",
+        "Latitude": 30.274085,
+        "Longitude": 120.15507,
+        "Station_url": "https://aqicn.org/city/hangzhou",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1529,
+        "City_id": 154,
+        "Date": "2026-05-14",
+        "Station_name": "Wuhan (\u6b66\u6c49)",
+        "Latitude": 30.593099,
+        "Longitude": 114.305393,
+        "Station_url": "https://aqicn.org/city/wuhan",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1569,
+        "City_id": 155,
+        "Date": "2026-05-14",
+        "Station_name": "Xian (\u897f\u5b89)",
+        "Latitude": 34.341568,
+        "Longitude": 108.940175,
+        "Station_url": "https://aqicn.org/city/xian",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1485,
+        "City_id": 156,
+        "Date": "2026-05-14",
+        "Station_name": "Nanjing (\u5357\u4eac)",
+        "Latitude": 32.060255,
+        "Longitude": 118.796877,
+        "Station_url": "https://aqicn.org/city/nanjing",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1453,
+        "City_id": 157,
+        "Date": "2026-05-14",
+        "Station_name": "Chongqing (\u91cd\u5e86)",
+        "Latitude": 29.56301,
+        "Longitude": 106.551557,
+        "Station_url": "https://aqicn.org/city/chongqing",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1452,
+        "City_id": 158,
+        "Date": "2026-05-14",
+        "Station_name": "Tianjin (\u5929\u6d25)",
+        "Latitude": 39.084158,
+        "Longitude": 117.200983,
+        "Station_url": "https://aqicn.org/city/tianjin",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1489,
+        "City_id": 159,
+        "Date": "2026-05-14",
+        "Station_name": "Suzhou (\u82cf\u5dde)",
+        "Latitude": 31.298886,
+        "Longitude": 120.585316,
+        "Station_url": "https://aqicn.org/city/suzhou",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1285,
+        "City_id": 160,
+        "Date": "2026-05-14",
+        "Station_name": "Dongli Heping Road, Haerbin (\u54c8\u5c14\u6ee8\u52a8\u529b\u548c\u5e73\u8def)",
+        "Latitude": 45.7258,
+        "Longitude": 126.646,
+        "Station_url": "https://aqicn.org/city/china/haerbin/donglihepinglu",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1505,
+        "City_id": 161,
+        "Date": "2026-05-14",
+        "Station_name": "Jinan (\u6d4e\u5357)",
+        "Latitude": 36.650997,
+        "Longitude": 117.120497,
+        "Station_url": "https://aqicn.org/city/jinan",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1522,
+        "City_id": 162,
+        "Date": "2026-05-14",
+        "Station_name": "Zhengzhou (\u90d1\u5dde)",
+        "Latitude": 34.7466,
+        "Longitude": 113.625368,
+        "Station_url": "https://aqicn.org/city/zhengzhou",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1532,
+        "City_id": 163,
+        "Date": "2026-05-14",
+        "Station_name": "Changsha (\u957f\u6c99)",
+        "Latitude": 28.228209,
+        "Longitude": 112.938814,
+        "Station_url": "https://aqicn.org/city/changsha",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1474,
+        "City_id": 164,
+        "Date": "2026-05-14",
+        "Station_name": "Dalian (\u5927\u8fde)",
+        "Latitude": 38.914003,
+        "Longitude": 121.614682,
+        "Station_url": "https://aqicn.org/city/dalian",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1506,
+        "City_id": 165,
+        "Date": "2026-05-14",
+        "Station_name": "Qingdao (\u9752\u5c9b)",
+        "Latitude": 36.067082,
+        "Longitude": 120.38264,
+        "Station_url": "https://aqicn.org/city/qingdao",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5508,
+        "City_id": 166,
+        "Date": "2026-05-14",
+        "Station_name": "Seoul (\uc11c\uc6b8)",
+        "Latitude": 37.566535,
+        "Longitude": 126.9779692,
+        "Station_url": "https://aqicn.org/city/seoul",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5521,
+        "City_id": 167,
+        "Date": "2026-05-14",
+        "Station_name": "Busan (\ubd80\uc0b0)",
+        "Latitude": 35.1795543,
+        "Longitude": 129.0756416,
+        "Station_url": "https://aqicn.org/city/busan",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5517,
+        "City_id": 168,
+        "Date": "2026-05-14",
+        "Station_name": "Incheon (\uc778\ucc9c)",
+        "Latitude": 37.4562557,
+        "Longitude": 126.7052062,
+        "Station_url": "https://aqicn.org/city/incheon",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5523,
+        "City_id": 169,
+        "Date": "2026-05-14",
+        "Station_name": "Daegu (\ub300\uad6c)",
+        "Latitude": 35.8714354,
+        "Longitude": 128.601445,
+        "Station_url": "https://aqicn.org/city/daegu",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5519,
+        "City_id": 170,
+        "Date": "2026-05-14",
+        "Station_name": "Daejeon (\ub300\uc804)",
+        "Latitude": 36.3504119,
+        "Longitude": 127.3845475,
+        "Station_url": "https://aqicn.org/city/daejeon",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5510,
+        "City_id": 171,
+        "Date": "2026-05-14",
+        "Station_name": "Gwangju (\uad11\uc8fc\uc2dc)",
+        "Latitude": 35.1595454,
+        "Longitude": 126.8526012,
+        "Station_url": "https://aqicn.org/city/gwangju",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5522,
+        "City_id": 172,
+        "Date": "2026-05-14",
+        "Station_name": "Ulsan (\uc6b8\uc0b0)",
+        "Latitude": 35.5383773,
+        "Longitude": 129.3113596,
+        "Station_url": "https://aqicn.org/city/ulsan",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5773,
+        "City_id": 173,
+        "Date": "2026-05-14",
+        "Station_name": "Bangkok",
+        "Latitude": 13.7563309,
+        "Longitude": 100.5017651,
+        "Station_url": "https://aqicn.org/city/bangkok",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1816,
+        "City_id": 174,
+        "Date": "2026-05-14",
+        "Station_name": "Sukhothai Thammathirat Open University, Nonthaburi, Thailand (\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22\u0e18\u0e23\u0e23\u0e21\u0e32\u0e18\u0e34\u0e23\u0e32\u0e0a)",
+        "Latitude": 13.907861,
+        "Longitude": 100.535641,
+        "Station_url": "https://aqicn.org/city/thailand/nonthaburi/sukhothai-thammathirat-open-university",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1854,
+        "City_id": 175,
+        "Date": "2026-05-14",
+        "Station_name": "Municipal Waste Water Pumping Station, Nakhon Ratchasima, Thailand (\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e2a\u0e39\u0e1a\u0e19\u0e49\u0e33\u0e40\u0e2a\u0e35\u0e22 \u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)",
+        "Latitude": 14.979537,
+        "Longitude": 102.098335,
+        "Station_url": "https://aqicn.org/city/thailand/nakhon-ratchasima/municipal-waste-water-pumping-station",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5775,
+        "City_id": 176,
+        "Date": "2026-05-14",
+        "Station_name": "Chiang Mai",
+        "Latitude": 18.787747,
+        "Longitude": 98.9931284,
+        "Station_url": "https://aqicn.org/city/chiang-mai",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1852,
+        "City_id": 177,
+        "Date": "2026-05-14",
+        "Station_name": "Hat Yai Municipality, Songkhla, Thailand (\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e19\u0e04\u0e23\u0e2b\u0e32\u0e14\u0e43\u0e2b\u0e0d\u0e48)",
+        "Latitude": 7.020434,
+        "Longitude": 100.484088,
+        "Station_url": "https://aqicn.org/city/thailand/songkhla/hat-yai-municipality",
+        "Is_active": true
+    },
+    {
+        "Station_id": 1663,
+        "City_id": 178,
+        "Date": "2026-05-14",
+        "Station_name": "South, Singapore",
+        "Latitude": 1.296183,
+        "Longitude": 103.846181,
+        "Station_url": "https://aqicn.org/city/singapore/south",
+        "Is_active": true
+    },
+    {
+        "Station_id": 2571,
+        "City_id": 179,
+        "Date": "2026-05-14",
+        "Station_name": "Central, HongKong (\u4e2d\u74b0)",
+        "Latitude": 22.2796569,
+        "Longitude": 114.1719873,
+        "Station_url": "https://aqicn.org/city/hongkong/central",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8294,
+        "City_id": 180,
+        "Date": "2026-05-14",
+        "Station_name": "Kemayoran, Indonesia",
+        "Latitude": -6.155,
+        "Longitude": 106.846,
+        "Station_url": "https://aqicn.org/city/indonesia/kemayoran",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8287,
+        "City_id": 183,
+        "Date": "2026-05-14",
+        "Station_name": "Medan, Indonesia",
+        "Latitude": 3.59,
+        "Longitude": 98.85,
+        "Station_url": "https://aqicn.org/city/indonesia/medan",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8294,
+        "City_id": 184,
+        "Date": "2026-05-14",
+        "Station_name": "Kemayoran, Indonesia",
+        "Latitude": -6.155,
+        "Longitude": 106.846,
+        "Station_url": "https://aqicn.org/city/indonesia/kemayoran",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8294,
+        "City_id": 185,
+        "Date": "2026-05-14",
+        "Station_name": "Kemayoran, Indonesia",
+        "Latitude": -6.155,
+        "Longitude": 106.846,
+        "Station_url": "https://aqicn.org/city/indonesia/kemayoran",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13653,
+        "City_id": 186,
+        "Date": "2026-05-14",
+        "Station_name": "Sleman, Indonesia",
+        "Latitude": -7.731,
+        "Longitude": 110.354,
+        "Station_url": "https://aqicn.org/city/indonesia/sleman",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8033,
+        "City_id": 187,
+        "Date": "2026-05-14",
+        "Station_name": "Dubai Shk. Mohd. Bin Zayed Road, UAE",
+        "Latitude": 25.05773,
+        "Longitude": 55.27089,
+        "Station_url": "https://aqicn.org/city/uae/dubai/shk.-mohd.-bin-zayed-road",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3782,
+        "City_id": 188,
+        "Date": "2026-05-14",
+        "Station_name": "Abu Dhabi City/Kalifah High School, UAE",
+        "Latitude": 24.430161959449,
+        "Longitude": 54.408089939621,
+        "Station_url": "https://aqicn.org/city/uae/abu-dhabi-city/kalifah-high-school",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3770,
+        "City_id": 190,
+        "Date": "2026-05-14",
+        "Station_name": "Al Ain/Salahudeen Alayubi Street, UAE",
+        "Latitude": 24.226179818475,
+        "Longitude": 55.765822999886,
+        "Station_url": "https://aqicn.org/city/uae/al-ain/salahudeen-alayubi-street",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11790,
+        "City_id": 191,
+        "Date": "2026-05-14",
+        "Station_name": "Karachi US Consulate, Pakistan",
+        "Latitude": 24.8415,
+        "Longitude": 67.0091,
+        "Station_url": "https://aqicn.org/city/pakistan/karachi/us-consulate",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11765,
+        "City_id": 192,
+        "Date": "2026-05-14",
+        "Station_name": "Lahore US Embassy, Pakistan",
+        "Latitude": 31.560078,
+        "Longitude": 74.33589,
+        "Station_url": "https://aqicn.org/city/pakistan/lahore/us-embassy",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11791,
+        "City_id": 197,
+        "Date": "2026-05-14",
+        "Station_name": "Peshawar US Consulate, Pakistan",
+        "Latitude": 34.00585,
+        "Longitude": 71.53775,
+        "Station_url": "https://aqicn.org/city/pakistan/peshawar/us-consulate",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12417,
+        "City_id": 198,
+        "Date": "2026-05-14",
+        "Station_name": "Cook And Phillip Sydney East",
+        "Latitude": -33.872468,
+        "Longitude": 151.213337,
+        "Station_url": "https://aqicn.org/city/australia/nsw/cook-and-phillip/sydney-east",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10141,
+        "City_id": 199,
+        "Date": "2026-05-14",
+        "Station_name": "Melbourne CBD",
+        "Latitude": -37.8073959,
+        "Longitude": 144.97,
+        "Station_url": "https://aqicn.org/city/australia/melbourne/melbourne-cbd",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5115,
+        "City_id": 200,
+        "Date": "2026-05-14",
+        "Station_name": "Brisbane CBD",
+        "Latitude": -27.4774,
+        "Longitude": 153.0281,
+        "Station_url": "https://aqicn.org/city/australia/queensland/brisbane-cbd",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6016,
+        "City_id": 201,
+        "Date": "2026-05-14",
+        "Station_name": "Perth Atholl Street, United Kingdom",
+        "Latitude": 56.399327,
+        "Longitude": -3.434182,
+        "Station_url": "https://aqicn.org/city/united-kingdom/scotland/perth-atholl-street",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6444,
+        "City_id": 202,
+        "Date": "2026-05-14",
+        "Station_name": "Adelaide CBD",
+        "Latitude": -34.928853,
+        "Longitude": 138.600943,
+        "Station_url": "https://aqicn.org/city/australia/south/adelaide/cbd",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10726,
+        "City_id": 203,
+        "Date": "2026-05-14",
+        "Station_name": "Southport",
+        "Latitude": -27.9612,
+        "Longitude": 153.4024,
+        "Station_url": "https://aqicn.org/city/australia/queensland/southport",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3268,
+        "City_id": 204,
+        "Date": "2026-05-14",
+        "Station_name": "Newcastle Lower Hunter",
+        "Latitude": -32.93118,
+        "Longitude": 151.7596,
+        "Station_url": "https://aqicn.org/city/australia/nsw/newcastle/lower-hunter",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12492,
+        "City_id": 205,
+        "Date": "2026-05-14",
+        "Station_name": "Civic, Canberra",
+        "Latitude": -35.285307,
+        "Longitude": 149.131579,
+        "Station_url": "https://aqicn.org/city/australia/canberra/civic",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3264,
+        "City_id": 207,
+        "Date": "2026-05-14",
+        "Station_name": "Wollongong Illawarra",
+        "Latitude": -34.41706,
+        "Longitude": 150.8873,
+        "Station_url": "https://aqicn.org/city/australia/nsw/wollongong/illawarra",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3247,
+        "City_id": 208,
+        "Date": "2026-05-14",
+        "Station_name": "GeelongSth.",
+        "Latitude": -38.17356,
+        "Longitude": 144.3703,
+        "Station_url": "https://aqicn.org/city/australia/melbourne/geelongsth.",
+        "Is_active": true
+    },
+    {
+        "Station_id": 3299,
+        "City_id": 209,
+        "Date": "2026-05-14",
+        "Station_name": "Hobart",
+        "Latitude": -42.855,
+        "Longitude": 147.315,
+        "Station_url": "https://aqicn.org/city/australia/tasmania/hobart",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12748,
+        "City_id": 210,
+        "Date": "2026-05-14",
+        "Station_name": "Queen Street, Auckland",
+        "Latitude": -36.84742808,
+        "Longitude": 174.7657304,
+        "Station_url": "https://aqicn.org/city/new-zealand/auckland/queen-street",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8525,
+        "City_id": 211,
+        "Date": "2026-05-14",
+        "Station_name": "Willis St, New Zealand",
+        "Latitude": -41.29361375,
+        "Longitude": 174.77193174,
+        "Station_url": "https://aqicn.org/city/new-zealand/wellington/willis-st",
+        "Is_active": true
+    },
+    {
+        "Station_id": 9096,
+        "City_id": 212,
+        "Date": "2026-05-14",
+        "Station_name": "Woolston, New Zealand",
+        "Latitude": -43.5473746,
+        "Longitude": 172.6790455,
+        "Station_url": "https://aqicn.org/city/new-zealand/canterbury/woolston",
+        "Is_active": true
+    },
+    {
+        "Station_id": 359,
+        "City_id": 213,
+        "Date": "2026-05-14",
+        "Station_name": "Parque D.Pedro II, S\u00e3o Paulo, Brazil",
+        "Latitude": -23.544845659,
+        "Longitude": -46.627675592,
+        "Station_url": "https://aqicn.org/city/brazil/sao-paulo/parque-d.pedro-ii",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14042,
+        "City_id": 214,
+        "Date": "2026-05-14",
+        "Station_name": "Manguinhos, RJ, Rio De Janeiro, Brazil",
+        "Latitude": -22.884198,
+        "Longitude": -43.242592,
+        "Station_url": "https://aqicn.org/city/brazil/rio-de-janeiro/rj/manguinhos",
+        "Is_active": true
+    },
+    {
+        "Station_id": 14031,
+        "City_id": 215,
+        "Date": "2026-05-14",
+        "Station_name": "S\u00e3o Bento, DC, Rio De Janeiro, Brazil",
+        "Latitude": -22.739845,
+        "Longitude": -43.313349,
+        "Station_url": "https://aqicn.org/city/brazil/rio-de-janeiro/dc/sao-bento",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6965,
+        "City_id": 216,
+        "Date": "2026-05-14",
+        "Station_name": "San Salvador Centro, El Salavor",
+        "Latitude": 13.70630556,
+        "Longitude": -89.20011667,
+        "Station_url": "https://aqicn.org/city/el-salavor/san-salvador-centro",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8400,
+        "City_id": 223,
+        "Date": "2026-05-14",
+        "Station_name": "Cordoba, Buenos Aires, Argentina",
+        "Latitude": -34.5995674,
+        "Longitude": -58.3915767,
+        "Station_url": "https://aqicn.org/city/argentina/buenos-aires/cordoba",
+        "Is_active": true
+    },
+    {
+        "Station_id": 8464,
+        "City_id": 224,
+        "Date": "2026-05-14",
+        "Station_name": "Avda. Al-nasir, Cordoba, Spain",
+        "Latitude": 37.892600000253,
+        "Longitude": -4.7800999996323,
+        "Station_url": "https://aqicn.org/city/spain/andalucia/cordoba/avda.-al-nasir",
+        "Is_active": true
+    },
+    {
+        "Station_id": 380,
+        "City_id": 228,
+        "Date": "2026-05-14",
+        "Station_name": "Campo De Marte, Lima, Peru",
+        "Latitude": -12.07054,
+        "Longitude": -77.04322,
+        "Station_url": "https://aqicn.org/city/peru/lima/campo-de-marte",
+        "Is_active": true
+    },
+    {
+        "Station_id": 6236,
+        "City_id": 233,
+        "Date": "2026-05-14",
+        "Station_name": "San Cristobal, Bogota, Colombia",
+        "Latitude": 4.5725,
+        "Longitude": -74.0836,
+        "Station_url": "https://aqicn.org/city/colombia/bogota/san-cristobal",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12513,
+        "City_id": 234,
+        "Date": "2026-05-14",
+        "Station_name": "Aranjuez, Medell\u00edn, Colombia",
+        "Latitude": 6.2904806,
+        "Longitude": -75.5555191,
+        "Station_url": "https://aqicn.org/city/colombia/medellin/aranjuez",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13320,
+        "City_id": 235,
+        "Date": "2026-05-14",
+        "Station_name": "ERA-Obrero, Cali, Colombia",
+        "Latitude": 3.4504194444444,
+        "Longitude": -76.522266666667,
+        "Station_url": "https://aqicn.org/city/colombia/cali/era-obrero",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5186,
+        "City_id": 237,
+        "Date": "2026-05-14",
+        "Station_name": "Mompean Cartagena, Murcia, Spain",
+        "Latitude": 37.60339,
+        "Longitude": -0.9749027186018782,
+        "Station_url": "https://aqicn.org/city/spain/murcia/mompean-cartagena",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13842,
+        "City_id": 238,
+        "Date": "2026-05-14",
+        "Station_name": "Cairo US Embassy, Egypt",
+        "Latitude": 30.0412457,
+        "Longitude": 31.2332942,
+        "Station_url": "https://aqicn.org/city/egypt/cairo/us-embassy",
+        "Is_active": true
+    },
+    {
+        "Station_id": 5336,
+        "City_id": 239,
+        "Date": "2026-05-14",
+        "Station_name": "Aurora Hills Visitor Center, Northern Virginia, USA",
+        "Latitude": 38.8577,
+        "Longitude": -77.05922,
+        "Station_url": "https://aqicn.org/city/usa/virginia/aurora-hills-visitor-center",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13842,
+        "City_id": 240,
+        "Date": "2026-05-14",
+        "Station_name": "Cairo US Embassy, Egypt",
+        "Latitude": 30.0412457,
+        "Longitude": 31.2332942,
+        "Station_url": "https://aqicn.org/city/egypt/cairo/us-embassy",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13450,
+        "City_id": 245,
+        "Date": "2026-05-14",
+        "Station_name": "Lagos US Embassy, Nigeria",
+        "Latitude": 6.4404830932617,
+        "Longitude": 3.4068150520325,
+        "Station_url": "https://aqicn.org/city/nigeria/lagos/us-embassy",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12572,
+        "City_id": 253,
+        "Date": "2026-05-14",
+        "Station_name": "Alexandra-NAQI, City of Johannesburg, South Africa",
+        "Latitude": -26.107035,
+        "Longitude": 28.110264,
+        "Station_url": "https://aqicn.org/city/south-africa/johannesburg-metro/alexandra",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12829,
+        "City_id": 254,
+        "Date": "2026-05-14",
+        "Station_name": "Foreshore-NAQI, City of Cape Town, South Africa",
+        "Latitude": -33.913833,
+        "Longitude": 18.425167,
+        "Station_url": "https://aqicn.org/city/south-africa/cape-town-metro/foreshore",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11834,
+        "City_id": 255,
+        "Date": "2026-05-14",
+        "Station_name": "City Hall - Durban-NAQI, eThekwini Metro, South Africa",
+        "Latitude": -29.858283,
+        "Longitude": 31.027286,
+        "Station_url": "https://aqicn.org/city/south-africa/ethekwini/city-hall-durban",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10777,
+        "City_id": 256,
+        "Date": "2026-05-14",
+        "Station_name": "Booysens, City of Tshwane, South Africa",
+        "Latitude": -25.71365,
+        "Longitude": 28.132096,
+        "Station_url": "https://aqicn.org/city/south-africa/tshwane-metro/booysens",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10771,
+        "City_id": 257,
+        "Date": "2026-05-14",
+        "Station_name": "Walmer-NAQI, Nelson Mandela Bay Metro, South Africa",
+        "Latitude": -33.985586,
+        "Longitude": 25.5885,
+        "Station_url": "https://aqicn.org/city/south-africa/nelson-mandela-bay-metro/walmer",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11411,
+        "City_id": 258,
+        "Date": "2026-05-14",
+        "Station_name": "Pelonomi, South Africa",
+        "Latitude": -29.138472,
+        "Longitude": 26.241917,
+        "Station_url": "https://aqicn.org/city/south-africa/pelonomi",
+        "Is_active": true
+    },
+    {
+        "Station_id": 10751,
+        "City_id": 259,
+        "Date": "2026-05-14",
+        "Station_name": "Gompo, Buffalo City Metro, South Africa",
+        "Latitude": -33.014944,
+        "Longitude": 27.849248,
+        "Station_url": "https://aqicn.org/city/south-africa/eden-dm/mobile",
+        "Is_active": true
+    },
+    {
+        "Station_id": 13818,
+        "City_id": 265,
+        "Date": "2026-05-14",
+        "Station_name": "Nairobi US Embassy, Kenya",
+        "Latitude": -1.23437,
+        "Longitude": 36.81732,
+        "Station_url": "https://aqicn.org/city/kenya/nairobi/us-embassy",
+        "Is_active": true
+    },
+    {
+        "Station_id": 9059,
+        "City_id": 267,
+        "Date": "2026-05-14",
+        "Station_name": "Addis Ababa US Embassy, Ethiopia",
+        "Latitude": 9.058498,
+        "Longitude": 38.761642,
+        "Station_url": "https://aqicn.org/city/ethiopia/addis-ababa/us-embassy",
+        "Is_active": true
+    },
+    {
+        "Station_id": 12826,
+        "City_id": 268,
+        "Date": "2026-05-14",
+        "Station_name": "Accra US Embassy, Ghana",
+        "Latitude": 5.580642,
+        "Longitude": -0.170724,
+        "Station_url": "https://aqicn.org/city/ghana/accra/us-embassy",
+        "Is_active": true
+    },
+    {
+        "Station_id": 11732,
+        "City_id": 270,
+        "Date": "2026-05-14",
+        "Station_name": "Algiers US Embassy, Algeria",
+        "Latitude": 36.7558,
+        "Longitude": 3.039114,
+        "Station_url": "https://aqicn.org/city/algeria/algiers/us-embassy",
+        "Is_active": true
+    }
+]
