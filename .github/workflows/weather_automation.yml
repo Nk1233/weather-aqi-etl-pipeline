@@ -2,8 +2,8 @@ name: Weather Data Automation
 
 on:
   schedule:
-    # Run every 6 hours (at 00:00, 06:00, 12:00, 18:00 UTC)
-    - cron: '0 */6 * * *'
+
+    - cron: '30 2 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:

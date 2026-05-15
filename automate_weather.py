@@ -50,7 +50,7 @@ def load_existing_data(file_path):
     """Load existing JSON data from file"""
     if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
         return []
-    
+
     try:
         with open(file_path, 'r') as f:
             return json.load(f)
@@ -82,10 +82,10 @@ def Weather_error(city_name):
         f"http://api.openweathermap.org/data/2.5/weather"
         f"?q={city_name}&appid={api_key1}&units=metric"
     )
-    
+
     try:
         response = requests.get(url, timeout=10)
-        
+
         if response.status_code == 200:
             return response.json()
         elif response.status_code == 404:
@@ -94,9 +94,9 @@ def Weather_error(city_name):
             print("✗ Invalid weather API key")
         else:
             print(f"✗ Weather API error: {response.status_code}")
-        
+
         return None
-    
+
     except requests.exceptions.Timeout:
         print(f"✗ Weather timeout: {city_name}")
         return None
@@ -108,10 +108,10 @@ def Weather_error(city_name):
 def waqi_error(city_name):
     """Fetch AQI data from WAQI API with error handling"""
     url = f"https://api.waqi.info/feed/{city_name}/?token={api_key2}"
-    
+
     try:
         response = requests.get(url, timeout=10)
-        
+
         if response.status_code == 200:
             return response.json()
         elif response.status_code == 404:
@@ -120,9 +120,9 @@ def waqi_error(city_name):
             print("✗ Invalid AQI API key")
         else:
             print(f"✗ AQI API error: {response.status_code}")
-        
+
         return None
-    
+
     except requests.exceptions.Timeout:
         print(f"✗ AQI timeout: {city_name}")
         return None
@@ -134,29 +134,29 @@ def waqi_error(city_name):
 def fetch_data():
     """Fetch weather and AQI data for all cities"""
     print("\nLoading existing files...")
-    
+
     city_data_existing = load_existing_data(path1)
     weather_existing = load_existing_data(path2)
     aqi_station_existing = load_existing_data(path3)
     aqi_record_existing = load_existing_data(path4)
     forecast_existing = load_existing_data(path5)
-    
+
     city_keys = build_existing_keys(city_data_existing)
     weather_keys = build_existing_keys(weather_existing)
     aqi_station_keys = build_existing_keys(aqi_station_existing)
     aqi_record_keys = build_existing_keys(aqi_record_existing)
     forecast_keys = build_existing_keys(forecast_existing)
-    
+
     print("\nFetching API data once per city...\n")
-    
+
     weather_cache = {}
     aqi_cache = {}
-    
+
     for city_id, city_name in CITIES_DICT.items():
         print(f"Fetching: {city_id}: {city_name}")
         weather_cache[city_id] = Weather_error(city_name)
         aqi_cache[city_id] = waqi_error(city_name)
-    
+
     # Process city records
     new_city_records = []
     for city_id, city_name in CITIES_DICT.items():
@@ -173,7 +173,7 @@ def fetch_data():
                 'Date': date
             }
             new_city_records.append(city_record)
-    
+
     # Process weather records
     new_weather_records = []
     for city_id, city_name in CITIES_DICT.items():
@@ -201,7 +201,7 @@ def fetch_data():
                 "Sunset": weather['sys']['sunset']
             }
             new_weather_records.append(weather_record)
-    
+
     # Process AQI stations
     new_aqi_stations = []
     for city_id, city_name in CITIES_DICT.items():
@@ -218,7 +218,7 @@ def fetch_data():
                 "Is_active": True
             }
             new_aqi_stations.append(aqi_station)
-    
+
     # Process AQI records
     new_aqi_records = []
     for city_id, city_name in CITIES_DICT.items():
@@ -246,7 +246,7 @@ def fetch_data():
                 "Dew_point": iaqi.get('dew', {}).get('v')
             }
             new_aqi_records.append(aqi_record)
-    
+
     # Process forecast records
     new_forecasts = []
     for city_id, city_name in CITIES_DICT.items():
@@ -267,28 +267,28 @@ def fetch_data():
                 new_forecasts.append(forecast_record)
             except Exception:
                 print(f"✗ Forecast missing for {city_name}")
-    
+
     # Merge with existing data
     city_data_existing.extend(new_city_records)
     weather_existing.extend(new_weather_records)
     aqi_station_existing.extend(new_aqi_stations)
     aqi_record_existing.extend(new_aqi_records)
     forecast_existing.extend(new_forecasts)
-    
+
     # Save to JSON files
     save_data(path1, city_data_existing)
     save_data(path2, weather_existing)
     save_data(path3, aqi_station_existing)
     save_data(path4, aqi_record_existing)
     save_data(path5, forecast_existing)
-    
+
     # Save temp files
     save_data(temp1, new_city_records)
     save_data(temp2, new_weather_records)
     save_data(temp3, new_aqi_stations)
     save_data(temp4, new_aqi_records)
     save_data(temp5, new_forecasts)
-    
+
     print("\n====================================")
     print("✓ DATA COLLECTION COMPLETE")
     print("====================================")
@@ -297,52 +297,52 @@ def fetch_data():
     print(f"AQI Stations Added: {len(new_aqi_stations)}")
     print(f"AQI Records Added: {len(new_aqi_records)}")
     print(f"Forecast Added: {len(new_forecasts)}")
-    
+
     return new_city_records, new_weather_records, new_aqi_stations, new_aqi_records, new_forecasts
 
 
 def store_to_database():
     """Store JSON data to PostgreSQL database"""
     print("\nStoring data to database...")
-    
+
     # Load temp files
     city = pd.read_json(temp1)
     weather = pd.read_json(temp2)
     aqi_stations = pd.read_json(temp3)
     aqi_records = pd.read_json(temp4)
     forecast_records = pd.read_json(temp5)
-    
+
     # Convert to DataFrames
     City = pd.DataFrame(city)
     Weather_records = pd.DataFrame(weather)
     Aqi_stations = pd.DataFrame(aqi_stations)
     Aqi_records = pd.DataFrame(aqi_records)
     Forecast_records = pd.DataFrame(forecast_records)
-    
+
     # Create database engine
     engine = create_engine(database_url)
-    
+
     # Store to database
     if not City.empty:
         City.to_sql('city', engine, if_exists='append', index=False)
         print(f"✓ City records: {len(City)}")
-    
+
     if not Weather_records.empty:
         Weather_records.to_sql('weather_records', engine, if_exists='append', index=False)
         print(f"✓ Weather records: {len(Weather_records)}")
-    
+
     if not Aqi_stations.empty:
         Aqi_stations.to_sql('aqi_stations', engine, if_exists='append', index=False)
         print(f"✓ AQI stations: {len(Aqi_stations)}")
-    
+
     if not Aqi_records.empty:
         Aqi_records.to_sql('aqi_records', engine, if_exists='append', index=False)
         print(f"✓ AQI records: {len(Aqi_records)}")
-    
+
     if not Forecast_records.empty:
         Forecast_records.to_sql('forecast_records', engine, if_exists='append', index=False)
         print(f"✓ Forecast records: {len(Forecast_records)}")
-    
+
     print("✓ Database update complete")
 
 
@@ -352,26 +352,26 @@ def main():
     print("WEATHER DATA AUTOMATION")
     print(f"Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("====================================")
-    
+
     # Check API keys
     if not api_key1 or not api_key2:
         print("✗ Error: API keys not found in .env file")
         return
-    
+
     if not database_url:
         print("✗ Error: DATABASE_URL not found in .env file")
         return
-    
+
     print(f"✓ Weather API Loaded: {api_key1[:5]}...")
     print(f"✓ WAQI API Loaded: {api_key2[:5]}...")
     print(f"✓ Database URL configured")
-    
+
     # Fetch data
     fetch_data()
-    
+
     # Store to database
     store_to_database()
-    
+
     print(f"\n✓ Automation complete: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 
